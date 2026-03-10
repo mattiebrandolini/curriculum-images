@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 520" 
+     width="800" height="520" style="background: white; font-family: Arial, Helvetica, sans-serif;">
+  <text x="400" y="35" font-size="20" fill="#333333" text-anchor="middle" font-weight="bold">Bacteriophage T4 Infecting a Bacterium</text>
+  <rect x="200" y="370" width="400" height="120" rx="60" ry="60" fill="#FFF9C4" stroke="#F9A825" stroke-width="3" />
+  <path d="M 300 410 Q 330 395 360 410 Q 390 425 420 410 Q 450 395 480 410" fill="none" stroke="#E65100" stroke-width="2" opacity="0.5" />
+  <path d="M 280 435 Q 310 420 340 435 Q 370 450 400 435 Q 430 420 460 435" fill="none" stroke="#E65100" stroke-width="2" opacity="0.5" />
+  <text x="400" y="500" font-size="16" fill="#F9A825" text-anchor="middle" font-weight="bold">Bacterium</text>
+  <polygon points="447.6,167.5 400.0,195.0 352.4,167.5 352.4,112.5 400.0,85.0 447.6,112.5" fill="#E3F2FD" stroke="#1565C0" stroke-width="3" />
+  <path d="M 380 115 Q 390 105 400 115 Q 410 125 420 115" fill="none" stroke="#C62828" stroke-width="2" />
+  <path d="M 375 135 Q 385 125 395 135 Q 405 145 415 135 Q 425 125 430 135" fill="none" stroke="#C62828" stroke-width="2" />
+  <path d="M 380 155 Q 390 145 400 155 Q 410 165 420 155" fill="none" stroke="#C62828" stroke-width="2" />
+  <rect x="385" y="195" width="30" height="12" fill="#1565C0" stroke="#0D47A1" rx="2" />
+  <rect x="390" y="207" width="20" height="100" fill="#90CAF9" stroke="#1565C0" rx="2" />
+  <rect x="396" y="207" width="8" height="100" fill="#1565C0" stroke="none" rx="1" />
+  <polygon points="370,310 380,300 420,300 430,310 420,320 380,320" fill="#1565C0" stroke="#0D47A1" stroke-width="2" />
+  <path d="M 380 310 Q 320 330 280 365" fill="none" stroke="#7B1FA2" stroke-width="2" />
+  <path d="M 375 315 Q 325 345 300 370" fill="none" stroke="#7B1FA2" stroke-width="2" />
+  <path d="M 385 315 Q 340 350 320 370" fill="none" stroke="#7B1FA2" stroke-width="2" />
+  <path d="M 420 310 Q 480 330 520 365" fill="none" stroke="#7B1FA2" stroke-width="2" />
+  <path d="M 425 315 Q 475 345 500 370" fill="none" stroke="#7B1FA2" stroke-width="2" />
+  <path d="M 415 315 Q 460 350 480 370" fill="none" stroke="#7B1FA2" stroke-width="2" />
+  <line x1="400" y1="320" x2="400" y2="370" stroke="#C62828" stroke-width="3" stroke-dasharray="6,3" />
+  <polygon points="394,365 406,365 400,378" fill="#C62828" />
+  <line x1="340" y1="120" x2="170" y2="100" stroke="#999" stroke-width="1" />
+  <text x="160" y="95" font-size="14" fill="#1565c0" text-anchor="end" font-weight="bold">Head (capsid)</text>
+  <line x1="370" y1="145" x2="170" y2="145" stroke="#999" stroke-width="1" />
+  <text x="160" y="141" font-size="14" fill="#c62828" text-anchor="end" font-weight="bold">DNA</text>
+  <line x1="415" y1="255" x2="600" y2="255" stroke="#999" stroke-width="1" />
+  <text x="610" y="251" font-size="14" fill="#1565c0" text-anchor="start" font-weight="bold">Tail sheath</text>
+  <line x1="435" y1="310" x2="600" y2="310" stroke="#999" stroke-width="1" />
+  <text x="610" y="306" font-size="14" fill="#1565c0" text-anchor="start" font-weight="bold">Baseplate</text>
+  <line x1="525" y1="360" x2="620" y2="345" stroke="#999" stroke-width="1" />
+  <text x="630" y="341" font-size="14" fill="#7b1fa2" text-anchor="start" font-weight="bold">Tail fibers</text>
+  <text x="400" y="355" font-size="12" fill="#c62828" text-anchor="middle" font-weight="bold">DNA injected</text>
+</svg>

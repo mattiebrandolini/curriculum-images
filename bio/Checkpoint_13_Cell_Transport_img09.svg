@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 260" 
+     width="800" height="260" style="background: white; font-family: Arial, Helvetica, sans-serif;">
+  <text x="400" y="35" font-size="20" fill="#333333" text-anchor="middle" font-weight="bold">Bulk Transport</text>
+  <rect x="40" y="60" width="340" height="180" fill="#e3f2fd" stroke="#1565c0" rx="4" />
+  <rect x="40" y="60" width="340" height="40" fill="#1565c0" stroke="#1565c0" rx="4" />
+  <text x="210" y="87" font-size="16" fill="white" text-anchor="middle" font-weight="bold">Endocytosis</text>
+  <text x="210" y="130" font-size="14" fill="#333333" text-anchor="middle" font-weight="normal">Into cell</text>
+  <text x="210" y="170" font-size="14" fill="#333333" text-anchor="middle" font-weight="normal">Wraps material in</text>
+  <text x="210" y="210" font-size="14" fill="#333333" text-anchor="middle" font-weight="normal">Ex: WBC eats bacteria</text>
+  <rect x="420" y="60" width="340" height="180" fill="#fff3e0" stroke="#e65100" rx="4" />
+  <rect x="420" y="60" width="340" height="40" fill="#e65100" stroke="#e65100" rx="4" />
+  <text x="590" y="87" font-size="16" fill="white" text-anchor="middle" font-weight="bold">Exocytosis</text>
+  <text x="590" y="130" font-size="14" fill="#333333" text-anchor="middle" font-weight="normal">Out of cell</text>
+  <text x="590" y="170" font-size="14" fill="#333333" text-anchor="middle" font-weight="normal">Vesicle releases out</text>
+  <text x="590" y="210" font-size="14" fill="#333333" text-anchor="middle" font-weight="normal">Ex: cell sends hormones</text>
+  <circle cx="400" cy="150" r="20" fill="white" stroke="#ccc" stroke-width="2" />
+  <text x="400" y="156" font-size="12" fill="#666666" text-anchor="middle" font-weight="bold">VS</text>
+</svg>

@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 420" 
+     width="800" height="420" style="background: white; font-family: Arial, Helvetica, sans-serif;">
+  <text x="400" y="35" font-size="20" fill="#333333" text-anchor="middle" font-weight="bold">Osmosis: Water Moves Across a Membrane</text>
+  <rect x="40" y="60" width="330" height="300" fill="#E3F2FD" stroke="#90CAF9" rx="8" />
+  <text x="205" y="90" font-size="16" fill="#1565c0" text-anchor="middle" font-weight="bold">More Water</text>
+  <text x="205" y="110" font-size="12" fill="#666666" text-anchor="middle" font-weight="normal">(less solute)</text>
+  <circle cx="90" cy="160" r="10" fill="#64B5F6" stroke="#1565c0" stroke-width="1.5" />
+  <text x="90" y="164" font-size="8" fill="white" text-anchor="middle" font-weight="bold">W</text>
+  <circle cx="150" cy="150" r="10" fill="#64B5F6" stroke="#1565c0" stroke-width="1.5" />
+  <text x="150" y="154" font-size="8" fill="white" text-anchor="middle" font-weight="bold">W</text>
+  <circle cx="100" cy="210" r="10" fill="#64B5F6" stroke="#1565c0" stroke-width="1.5" />
+  <text x="100" y="214" font-size="8" fill="white" text-anchor="middle" font-weight="bold">W</text>
+  <circle cx="170" cy="200" r="10" fill="#64B5F6" stroke="#1565c0" stroke-width="1.5" />
+  <text x="170" y="204" font-size="8" fill="white" text-anchor="middle" font-weight="bold">W</text>
+  <circle cx="130" cy="260" r="10" fill="#64B5F6" stroke="#1565c0" stroke-width="1.5" />
+  <text x="130" y="264" font-size="8" fill="white" text-anchor="middle" font-weight="bold">W</text>
+  <circle cx="200" cy="250" r="10" fill="#64B5F6" stroke="#1565c0" stroke-width="1.5" />
+  <text x="200" y="254" font-size="8" fill="white" text-anchor="middle" font-weight="bold">W</text>
+  <circle cx="80" cy="280" r="10" fill="#64B5F6" stroke="#1565c0" stroke-width="1.5" />
+  <text x="80" y="284" font-size="8" fill="white" text-anchor="middle" font-weight="bold">W</text>
+  <circle cx="160" cy="290" r="10" fill="#64B5F6" stroke="#1565c0" stroke-width="1.5" />
+  <text x="160" y="294" font-size="8" fill="white" text-anchor="middle" font-weight="bold">W</text>
+  <circle cx="240" cy="170" r="10" fill="#64B5F6" stroke="#1565c0" stroke-width="1.5" />
+  <text x="240" y="174" font-size="8" fill="white" text-anchor="middle" font-weight="bold">W</text>
+  <circle cx="260" cy="230" r="10" fill="#64B5F6" stroke="#1565c0" stroke-width="1.5" />
+  <text x="260" y="234" font-size="8" fill="white" text-anchor="middle" font-weight="bold">W</text>
+  <circle cx="220" cy="300" r="10" fill="#64B5F6" stroke="#1565c0" stroke-width="1.5" />
+  <text x="220" y="304" font-size="8" fill="white" text-anchor="middle" font-weight="bold">W</text>
+  <circle cx="110" cy="320" r="10" fill="#64B5F6" stroke="#1565c0" stroke-width="1.5" />
+  <text x="110" y="324" font-size="8" fill="white" text-anchor="middle" font-weight="bold">W</text>
+  <circle cx="180" cy="340" r="10" fill="#64B5F6" stroke="#1565c0" stroke-width="1.5" />
+  <text x="180" y="344" font-size="8" fill="white" text-anchor="middle" font-weight="bold">W</text>
+  <circle cx="250" cy="280" r="10" fill="#64B5F6" stroke="#1565c0" stroke-width="1.5" />
+  <text x="250" y="284" font-size="8" fill="white" text-anchor="middle" font-weight="bold">W</text>
+  <circle cx="280" cy="310" r="10" fill="#64B5F6" stroke="#1565c0" stroke-width="1.5" />
+  <text x="280" y="314" font-size="8" fill="white" text-anchor="middle" font-weight="bold">W</text>
+  <circle cx="140" cy="180" r="10" fill="#64B5F6" stroke="#1565c0" stroke-width="1.5" />
+  <text x="140" y="184" font-size="8" fill="white" text-anchor="middle" font-weight="bold">W</text>
+  <circle cx="210" cy="140" r="10" fill="#64B5F6" stroke="#1565c0" stroke-width="1.5" />
+  <text x="210" y="144" font-size="8" fill="white" text-anchor="middle" font-weight="bold">W</text>
+  <circle cx="270" cy="160" r="10" fill="#64B5F6" stroke="#1565c0" stroke-width="1.5" />
+  <text x="270" y="164" font-size="8" fill="white" text-anchor="middle" font-weight="bold">W</text>
+  <circle cx="120" cy="240" r="13" fill="#FFCC80" stroke="#E65100" stroke-width="2" />
+  <text x="120" y="244" font-size="9" fill="#E65100" text-anchor="middle" font-weight="bold">S</text>
+  <circle cx="250" cy="200" r="13" fill="#FFCC80" stroke="#E65100" stroke-width="2" />
+  <text x="250" y="204" font-size="9" fill="#E65100" text-anchor="middle" font-weight="bold">S</text>
+  <rect x="430" y="60" width="330" height="300" fill="#FFF3E0" stroke="#FFCC80" rx="8" />
+  <text x="595" y="90" font-size="16" fill="#e65100" text-anchor="middle" font-weight="bold">Less Water</text>
+  <text x="595" y="110" font-size="12" fill="#666666" text-anchor="middle" font-weight="normal">(more solute)</text>
+  <circle cx="480" cy="200" r="10" fill="#64B5F6" stroke="#1565c0" stroke-width="1.5" />
+  <text x="480" y="204" font-size="8" fill="white" text-anchor="middle" font-weight="bold">W</text>
+  <circle cx="540" cy="260" r="10" fill="#64B5F6" stroke="#1565c0" stroke-width="1.5" />
+  <text x="540" y="264" font-size="8" fill="white" text-anchor="middle" font-weight="bold">W</text>
+  <circle cx="620" cy="180" r="10" fill="#64B5F6" stroke="#1565c0" stroke-width="1.5" />
+  <text x="620" y="184" font-size="8" fill="white" text-anchor="middle" font-weight="bold">W</text>
+  <circle cx="570" cy="320" r="10" fill="#64B5F6" stroke="#1565c0" stroke-width="1.5" />
+  <text x="570" y="324" font-size="8" fill="white" text-anchor="middle" font-weight="bold">W</text>
+  <circle cx="500" cy="300" r="10" fill="#64B5F6" stroke="#1565c0" stroke-width="1.5" />
+  <text x="500" y="304" font-size="8" fill="white" text-anchor="middle" font-weight="bold">W</text>
+  <circle cx="660" cy="270" r="10" fill="#64B5F6" stroke="#1565c0" stroke-width="1.5" />
+  <text x="660" y="274" font-size="8" fill="white" text-anchor="middle" font-weight="bold">W</text>
+  <circle cx="490" cy="160" r="13" fill="#FFCC80" stroke="#E65100" stroke-width="2" />
+  <text x="490" y="164" font-size="9" fill="#E65100" text-anchor="middle" font-weight="bold">S</text>
+  <circle cx="560" cy="170" r="13" fill="#FFCC80" stroke="#E65100" stroke-width="2" />
+  <text x="560" y="174" font-size="9" fill="#E65100" text-anchor="middle" font-weight="bold">S</text>
+  <circle cx="630" cy="230" r="13" fill="#FFCC80" stroke="#E65100" stroke-width="2" />
+  <text x="630" y="234" font-size="9" fill="#E65100" text-anchor="middle" font-weight="bold">S</text>
+  <circle cx="700" cy="200" r="13" fill="#FFCC80" stroke="#E65100" stroke-width="2" />
+  <text x="700" y="204" font-size="9" fill="#E65100" text-anchor="middle" font-weight="bold">S</text>
+  <circle cx="520" cy="230" r="13" fill="#FFCC80" stroke="#E65100" stroke-width="2" />
+  <text x="520" y="234" font-size="9" fill="#E65100" text-anchor="middle" font-weight="bold">S</text>
+  <circle cx="650" cy="300" r="13" fill="#FFCC80" stroke="#E65100" stroke-width="2" />
+  <text x="650" y="304" font-size="9" fill="#E65100" text-anchor="middle" font-weight="bold">S</text>
+  <circle cx="710" cy="280" r="13" fill="#FFCC80" stroke="#E65100" stroke-width="2" />
+  <text x="710" y="284" font-size="9" fill="#E65100" text-anchor="middle" font-weight="bold">S</text>
+  <circle cx="470" cy="270" r="13" fill="#FFCC80" stroke="#E65100" stroke-width="2" />
+  <text x="470" y="274" font-size="9" fill="#E65100" text-anchor="middle" font-weight="bold">S</text>
+  <circle cx="580" cy="280" r="13" fill="#FFCC80" stroke="#E65100" stroke-width="2" />
+  <text x="580" y="284" font-size="9" fill="#E65100" text-anchor="middle" font-weight="bold">S</text>
+  <circle cx="700" cy="150" r="13" fill="#FFCC80" stroke="#E65100" stroke-width="2" />
+  <text x="700" y="154" font-size="9" fill="#E65100" text-anchor="middle" font-weight="bold">S</text>
+  <circle cx="640" cy="140" r="13" fill="#FFCC80" stroke="#E65100" stroke-width="2" />
+  <text x="640" y="144" font-size="9" fill="#E65100" text-anchor="middle" font-weight="bold">S</text>
+  <circle cx="530" cy="140" r="13" fill="#FFCC80" stroke="#E65100" stroke-width="2" />
+  <text x="530" y="144" font-size="9" fill="#E65100" text-anchor="middle" font-weight="bold">S</text>
+  <rect x="370" y="55" width="60" height="310" fill="#FFE0B2" stroke="#FF9800" rx="0" />
+  <rect x="380" y="80" width="40" height="12" fill="white" stroke="#FFB74D" rx="3" />
+  <rect x="380" y="120" width="40" height="12" fill="white" stroke="#FFB74D" rx="3" />
+  <rect x="380" y="160" width="40" height="12" fill="white" stroke="#FFB74D" rx="3" />
+  <rect x="380" y="200" width="40" height="12" fill="white" stroke="#FFB74D" rx="3" />
+  <rect x="380" y="240" width="40" height="12" fill="white" stroke="#FFB74D" rx="3" />
+  <rect x="380" y="280" width="40" height="12" fill="white" stroke="#FFB74D" rx="3" />
+  <rect x="380" y="320" width="40" height="12" fill="white" stroke="#FFB74D" rx="3" />
+  <text x="400" y="385" font-size="14" fill="#E65100" text-anchor="middle" font-weight="bold">Semi-Permeable Membrane</text>
+  <text x="400" y="403" font-size="11" fill="#666666" text-anchor="middle" font-weight="normal">(only water can pass)</text>
+  <defs><marker id="arrow_280_180_450_180" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#1565c0" /></marker></defs>
+  <line x1="280" y1="180" x2="450" y2="180" stroke="#1565c0" stroke-width="3" marker-end="url(#arrow_280_180_450_180)" />
+  <defs><marker id="arrow_290_240_460_240" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#1565c0" /></marker></defs>
+  <line x1="290" y1="240" x2="460" y2="240" stroke="#1565c0" stroke-width="3" marker-end="url(#arrow_290_240_460_240)" />
+  <defs><marker id="arrow_270_300_440_300" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#1565c0" /></marker></defs>
+  <line x1="270" y1="300" x2="440" y2="300" stroke="#1565c0" stroke-width="3" marker-end="url(#arrow_270_300_440_300)" />
+  <text x="340" y="165" font-size="13" fill="#1565c0" text-anchor="middle" font-weight="bold">H₂O</text>
+  <circle cx="180" cy="415" r="8" fill="#64B5F6" stroke="#1565c0" stroke-width="1.5" />
+  <text x="195" y="419" font-size="12" fill="#333333" text-anchor="start" font-weight="normal">= Water</text>
+  <circle cx="320" cy="415" r="10" fill="#FFCC80" stroke="#E65100" stroke-width="2" />
+  <text x="337" y="419" font-size="12" fill="#333333" text-anchor="start" font-weight="normal">= Solute (sugar/salt)</text>
+</svg>

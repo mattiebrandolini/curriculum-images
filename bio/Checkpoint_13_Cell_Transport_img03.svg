@@ -1,110 +1,66 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 445" 
-     width="800" height="445" style="background: white; font-family: Arial, Helvetica, sans-serif;">
-  <text x="400" y="32" font-size="20" fill="#333333" text-anchor="middle" font-weight="bold">Concentration Gradient</text>
-  <text x="400" y="52" font-size="13" fill="#666666" text-anchor="middle" font-weight="normal">Molecules always move: HIGH → LOW</text>
-  <rect x="50" y="68" width="218" height="300" fill="#fff3e0" stroke="#e65100" rx="8" />
-  <rect x="50" y="68" width="218" height="40" fill="#e65100" rx="8"/>
-  <rect x="50" y="94" width="218" height="14" fill="#e65100" rx="0"/>
-  <text x="159" y="95" font-size="14" fill="white" text-anchor="middle" font-weight="bold">1. Clustered</text>
-  <rect x="291" y="68" width="218" height="300" fill="#e3f2fd" stroke="#00695c" rx="8" />
-  <rect x="291" y="68" width="218" height="40" fill="#00695c" rx="8"/>
-  <rect x="291" y="94" width="218" height="14" fill="#00695c" rx="0"/>
-  <text x="400" y="95" font-size="14" fill="white" text-anchor="middle" font-weight="bold">2. Spreading</text>
-  <rect x="532" y="68" width="218" height="300" fill="#e3f2fd" stroke="#1565c0" rx="8" />
-  <rect x="532" y="68" width="218" height="40" fill="#1565c0" rx="8"/>
-  <rect x="532" y="94" width="218" height="14" fill="#1565c0" rx="0"/>
-  <text x="641" y="95" font-size="14" fill="white" text-anchor="middle" font-weight="bold">3. Equal</text>
-  <line x1="159" y1="108" x2="159" y2="340" stroke="#bbb" stroke-width="1.5" stroke-dasharray="5,4"/>
-  <circle cx="72" cy="136" r="7" fill="#7b1fa2" stroke="#4a148c" stroke-width="1" />
-  <circle cx="102" cy="123" r="7" fill="#7b1fa2" stroke="#4a148c" stroke-width="1" />
-  <circle cx="132" cy="138" r="7" fill="#7b1fa2" stroke="#4a148c" stroke-width="1" />
-  <circle cx="78" cy="171" r="7" fill="#7b1fa2" stroke="#4a148c" stroke-width="1" />
-  <circle cx="110" cy="160" r="7" fill="#7b1fa2" stroke="#4a148c" stroke-width="1" />
-  <circle cx="140" cy="176" r="7" fill="#7b1fa2" stroke="#4a148c" stroke-width="1" />
-  <circle cx="70" cy="208" r="7" fill="#7b1fa2" stroke="#4a148c" stroke-width="1" />
-  <circle cx="105" cy="198" r="7" fill="#7b1fa2" stroke="#4a148c" stroke-width="1" />
-  <circle cx="138" cy="213" r="7" fill="#7b1fa2" stroke="#4a148c" stroke-width="1" />
-  <circle cx="82" cy="243" r="7" fill="#7b1fa2" stroke="#4a148c" stroke-width="1" />
-  <circle cx="115" cy="233" r="7" fill="#7b1fa2" stroke="#4a148c" stroke-width="1" />
-  <circle cx="145" cy="248" r="7" fill="#7b1fa2" stroke="#4a148c" stroke-width="1" />
-  <circle cx="75" cy="278" r="7" fill="#7b1fa2" stroke="#4a148c" stroke-width="1" />
-  <circle cx="108" cy="268" r="7" fill="#7b1fa2" stroke="#4a148c" stroke-width="1" />
-  <circle cx="142" cy="283" r="7" fill="#7b1fa2" stroke="#4a148c" stroke-width="1" />
-  <circle cx="88" cy="313" r="7" fill="#7b1fa2" stroke="#4a148c" stroke-width="1" />
-  <circle cx="120" cy="306" r="7" fill="#7b1fa2" stroke="#4a148c" stroke-width="1" />
-  <circle cx="188" cy="148" r="7" fill="#7b1fa2" stroke="#4a148c" stroke-width="1" />
-  <circle cx="222" cy="233" r="7" fill="#7b1fa2" stroke="#4a148c" stroke-width="1" />
-  <circle cx="200" cy="310" r="7" fill="#7b1fa2" stroke="#4a148c" stroke-width="1" />
-  <rect x="204" y="112" width="16" height="22" fill="#e0e0e0" stroke="#999" rx="3" />
-  <line x1="220" y1="117" x2="230" y2="117" stroke="#999" stroke-width="2"/>
-  <line x1="230" y1="117" x2="230" y2="127" stroke="#999" stroke-width="2"/>
-  <circle cx="234" cy="111" r="2" fill="#7b1fa2" opacity="0.5"/>
-  <circle cx="239" cy="116" r="2" fill="#7b1fa2" opacity="0.5"/>
-  <circle cx="234" cy="121" r="2" fill="#7b1fa2" opacity="0.5"/>
-  <circle cx="243" cy="113" r="2" fill="#7b1fa2" opacity="0.5"/>
-  <circle cx="243" cy="119" r="2" fill="#7b1fa2" opacity="0.5"/>
-  <text x="109" y="356" font-size="12" fill="#e65100" text-anchor="middle" font-weight="bold">HIGH</text>
-  <text x="209" y="356" font-size="12" fill="#1565c0" text-anchor="middle" font-weight="bold">LOW</text>
-  <circle cx="309" cy="133" r="7" fill="#7b1fa2" stroke="#4a148c" stroke-width="1" />
-  <circle cx="336" cy="123" r="7" fill="#7b1fa2" stroke="#4a148c" stroke-width="1" />
-  <circle cx="321" cy="168" r="7" fill="#7b1fa2" stroke="#4a148c" stroke-width="1" />
-  <circle cx="371" cy="150" r="7" fill="#7b1fa2" stroke="#4a148c" stroke-width="1" />
-  <circle cx="396" cy="183" r="7" fill="#7b1fa2" stroke="#4a148c" stroke-width="1" />
-  <circle cx="383" cy="218" r="7" fill="#7b1fa2" stroke="#4a148c" stroke-width="1" />
-  <circle cx="363" cy="243" r="7" fill="#7b1fa2" stroke="#4a148c" stroke-width="1" />
-  <circle cx="406" cy="250" r="7" fill="#7b1fa2" stroke="#4a148c" stroke-width="1" />
-  <circle cx="439" cy="163" r="7" fill="#7b1fa2" stroke="#4a148c" stroke-width="1" />
-  <circle cx="463" cy="203" r="7" fill="#7b1fa2" stroke="#4a148c" stroke-width="1" />
-  <circle cx="446" cy="248" r="7" fill="#7b1fa2" stroke="#4a148c" stroke-width="1" />
-  <circle cx="466" cy="278" r="7" fill="#7b1fa2" stroke="#4a148c" stroke-width="1" />
-  <circle cx="313" cy="263" r="7" fill="#7b1fa2" stroke="#4a148c" stroke-width="1" />
-  <circle cx="349" cy="283" r="7" fill="#7b1fa2" stroke="#4a148c" stroke-width="1" />
-  <circle cx="421" cy="300" r="7" fill="#7b1fa2" stroke="#4a148c" stroke-width="1" />
-  <circle cx="456" cy="316" r="7" fill="#7b1fa2" stroke="#4a148c" stroke-width="1" />
-  <defs><marker id="arrow_309_333_487_333" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#00695c" /></marker></defs>
-  <line x1="309" y1="333" x2="487" y2="333" stroke="#00695c" stroke-width="2" marker-end="url(#arrow_309_333_487_333)" />
-  <defs><marker id="arrow_309_348_487_348" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#00695c" /></marker></defs>
-  <line x1="309" y1="348" x2="487" y2="348" stroke="#00695c" stroke-width="2" marker-end="url(#arrow_309_348_487_348)" />
-  <text x="400" y="356" font-size="12" fill="#00695c" text-anchor="middle" font-weight="bold">Moving →</text>
-  <circle cx="558" cy="129" r="7" fill="#7b1fa2" stroke="#4a148c" stroke-width="1" />
-  <circle cx="584" cy="132" r="7" fill="#7b1fa2" stroke="#4a148c" stroke-width="1" />
-  <circle cx="625" cy="131" r="7" fill="#7b1fa2" stroke="#4a148c" stroke-width="1" />
-  <circle cx="663" cy="129" r="7" fill="#7b1fa2" stroke="#4a148c" stroke-width="1" />
-  <circle cx="708" cy="136" r="7" fill="#7b1fa2" stroke="#4a148c" stroke-width="1" />
-  <circle cx="733" cy="137" r="7" fill="#7b1fa2" stroke="#4a148c" stroke-width="1" />
-  <circle cx="554" cy="168" r="7" fill="#7b1fa2" stroke="#4a148c" stroke-width="1" />
-  <circle cx="584" cy="169" r="7" fill="#7b1fa2" stroke="#4a148c" stroke-width="1" />
-  <circle cx="625" cy="171" r="7" fill="#7b1fa2" stroke="#4a148c" stroke-width="1" />
-  <circle cx="669" cy="177" r="7" fill="#7b1fa2" stroke="#4a148c" stroke-width="1" />
-  <circle cx="698" cy="176" r="7" fill="#7b1fa2" stroke="#4a148c" stroke-width="1" />
-  <circle cx="735" cy="178" r="7" fill="#7b1fa2" stroke="#4a148c" stroke-width="1" />
-  <circle cx="559" cy="216" r="7" fill="#7b1fa2" stroke="#4a148c" stroke-width="1" />
-  <circle cx="590" cy="211" r="7" fill="#7b1fa2" stroke="#4a148c" stroke-width="1" />
-  <circle cx="629" cy="217" r="7" fill="#7b1fa2" stroke="#4a148c" stroke-width="1" />
-  <circle cx="665" cy="208" r="7" fill="#7b1fa2" stroke="#4a148c" stroke-width="1" />
-  <circle cx="710" cy="210" r="7" fill="#7b1fa2" stroke="#4a148c" stroke-width="1" />
-  <circle cx="553" cy="252" r="7" fill="#7b1fa2" stroke="#4a148c" stroke-width="1" />
-  <circle cx="586" cy="251" r="7" fill="#7b1fa2" stroke="#4a148c" stroke-width="1" />
-  <circle cx="634" cy="253" r="7" fill="#7b1fa2" stroke="#4a148c" stroke-width="1" />
-  <circle cx="662" cy="249" r="7" fill="#7b1fa2" stroke="#4a148c" stroke-width="1" />
-  <circle cx="704" cy="249" r="7" fill="#7b1fa2" stroke="#4a148c" stroke-width="1" />
-  <circle cx="737" cy="253" r="7" fill="#7b1fa2" stroke="#4a148c" stroke-width="1" />
-  <circle cx="557" cy="292" r="7" fill="#7b1fa2" stroke="#4a148c" stroke-width="1" />
-  <circle cx="596" cy="288" r="7" fill="#7b1fa2" stroke="#4a148c" stroke-width="1" />
-  <circle cx="633" cy="295" r="7" fill="#7b1fa2" stroke="#4a148c" stroke-width="1" />
-  <circle cx="669" cy="289" r="7" fill="#7b1fa2" stroke="#4a148c" stroke-width="1" />
-  <circle cx="704" cy="289" r="7" fill="#7b1fa2" stroke="#4a148c" stroke-width="1" />
-  <circle cx="740" cy="292" r="7" fill="#7b1fa2" stroke="#4a148c" stroke-width="1" />
-  <circle cx="558" cy="334" r="7" fill="#7b1fa2" stroke="#4a148c" stroke-width="1" />
-  <circle cx="589" cy="334" r="7" fill="#7b1fa2" stroke="#4a148c" stroke-width="1" />
-  <circle cx="625" cy="326" r="7" fill="#7b1fa2" stroke="#4a148c" stroke-width="1" />
-  <circle cx="661" cy="335" r="7" fill="#7b1fa2" stroke="#4a148c" stroke-width="1" />
-  <circle cx="701" cy="329" r="7" fill="#7b1fa2" stroke="#4a148c" stroke-width="1" />
-  <circle cx="733" cy="328" r="7" fill="#7b1fa2" stroke="#4a148c" stroke-width="1" />
-  <text x="641" y="356" font-size="12" fill="#1565c0" text-anchor="middle" font-weight="bold">Equilibrium</text>
-  <text x="400" y="392" font-size="12" fill="#666666" text-anchor="middle" font-weight="normal">Time passes</text>
-  <defs><marker id="arrow_68_406_732_406" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#333333" /></marker></defs>
-  <line x1="68" y1="406" x2="732" y2="406" stroke="#333333" stroke-width="2" marker-end="url(#arrow_68_406_732_406)" />
-  <text x="400" y="435" font-size="11" fill="#666666" text-anchor="middle" font-weight="normal">Like perfume spreading across a room</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450" 
+     width="800" height="450" style="background: white; font-family: Arial, Helvetica, sans-serif;">
+  <text x="400" y="35" font-size="20" fill="#333333" text-anchor="middle" font-weight="bold">The Concentration Gradient</text>
+  <rect x="40" y="55" width="720" height="310" fill="#fafafa" stroke="#ddd" rx="12" />
+  <line x1="400" y1="75" x2="400" y2="345" stroke="#bbb" stroke-width="1.5" stroke-dasharray="6,4" />
+  <rect x="50" y="60" width="340" height="50" fill="#e65100" stroke="#e65100" rx="8" />
+  <text x="220" y="92" font-size="16" fill="white" text-anchor="middle" font-weight="bold">HIGH Concentration</text>
+  <rect x="410" y="60" width="340" height="50" fill="#00695c" stroke="#00695c" rx="8" />
+  <text x="580" y="92" font-size="16" fill="white" text-anchor="middle" font-weight="bold">LOW Concentration</text>
+  <circle cx="204.2796276761556" cy="135.00215104453338" r="8" fill="#FF8A65" stroke="#e65100" stroke-width="1.5" />
+  <circle cx="127.75615685751504" cy="174.64214762976457" r="8" fill="#FF8A65" stroke="#e65100" stroke-width="1.5" />
+  <circle cx="224.6589549744426" cy="265.33989748458225" r="8" fill="#FF8A65" stroke="#e65100" stroke-width="1.5" />
+  <circle cx="257.3577092180175" cy="147.38776652588322" r="8" fill="#FF8A65" stroke="#e65100" stroke-width="1.5" />
+  <circle cx="158.6035821339068" cy="135.95944388761407" r="8" fill="#FF8A65" stroke="#e65100" stroke-width="1.5" />
+  <circle cx="115.91397470875671" cy="231.0710576206725" r="8" fill="#FF8A65" stroke="#e65100" stroke-width="1.5" />
+  <circle cx="75.57255363361136" cy="169.7675301373297" r="8" fill="#FF8A65" stroke="#e65100" stroke-width="1.5" />
+  <circle cx="206.47573193369988" cy="238.98829612064333" r="8" fill="#FF8A65" stroke="#e65100" stroke-width="1.5" />
+  <circle cx="116.2925306285463" cy="247.85313677518172" r="8" fill="#FF8A65" stroke="#e65100" stroke-width="1.5" />
+  <circle cx="239.98039590234362" cy="131.2997519356122" r="8" fill="#FF8A65" stroke="#e65100" stroke-width="1.5" />
+  <circle cx="239.22204288488967" cy="269.6278789976454" r="8" fill="#FF8A65" stroke="#e65100" stroke-width="1.5" />
+  <circle cx="141.4526084687783" cy="161.0958999623563" r="8" fill="#FF8A65" stroke="#e65100" stroke-width="1.5" />
+  <circle cx="271.01474516342404" cy="197.31890902252536" r="8" fill="#FF8A65" stroke="#e65100" stroke-width="1.5" />
+  <circle cx="89.47662710983106" cy="149.3432753666928" r="8" fill="#FF8A65" stroke="#e65100" stroke-width="1.5" />
+  <circle cx="247.97381693296654" cy="250.74520627337822" r="8" fill="#FF8A65" stroke="#e65100" stroke-width="1.5" />
+  <circle cx="239.49693738761982" cy="275.9463573387636" r="8" fill="#FF8A65" stroke="#e65100" stroke-width="1.5" />
+  <circle cx="182.60789920548717" cy="324.62315279587415" r="8" fill="#FF8A65" stroke="#e65100" stroke-width="1.5" />
+  <circle cx="149.49221921375423" cy="240.4081262546454" r="8" fill="#FF8A65" stroke="#e65100" stroke-width="1.5" />
+  <circle cx="244.1749794931289" cy="253.70395047284921" r="8" fill="#FF8A65" stroke="#e65100" stroke-width="1.5" />
+  <circle cx="250.95844906526318" cy="245.47042905135243" r="8" fill="#FF8A65" stroke="#e65100" stroke-width="1.5" />
+  <circle cx="217.96008560513394" cy="139.16487673113244" r="8" fill="#FF8A65" stroke="#e65100" stroke-width="1.5" />
+  <circle cx="117.85863788682484" cy="187.87759272042143" r="8" fill="#FF8A65" stroke="#e65100" stroke-width="1.5" />
+  <circle cx="86.75631515396178" cy="176.55817727220602" r="8" fill="#FF8A65" stroke="#e65100" stroke-width="1.5" />
+  <circle cx="91.21030017604312" cy="185.59472062201843" r="8" fill="#FF8A65" stroke="#e65100" stroke-width="1.5" />
+  <circle cx="203.493733295524" cy="202.96643579401683" r="8" fill="#FF8A65" stroke="#e65100" stroke-width="1.5" />
+  <circle cx="147.73800309454532" cy="171.90140615429755" r="8" fill="#FF8A65" stroke="#e65100" stroke-width="1.5" />
+  <circle cx="126.06534263031381" cy="317.3309175424988" r="8" fill="#FF8A65" stroke="#e65100" stroke-width="1.5" />
+  <circle cx="206.08743090178461" cy="251.82620113339763" r="8" fill="#FF8A65" stroke="#e65100" stroke-width="1.5" />
+  <circle cx="105.93911612160036" cy="275.82535959006987" r="8" fill="#FF8A65" stroke="#e65100" stroke-width="1.5" />
+  <circle cx="104.31452369000496" cy="205.89108835152956" r="8" fill="#FF8A65" stroke="#e65100" stroke-width="1.5" />
+  <circle cx="277.79990363368495" cy="257.9999519708186" r="8" fill="#FF8A65" stroke="#e65100" stroke-width="1.5" />
+  <circle cx="186.9594461926757" cy="266.9228501979749" r="8" fill="#FF8A65" stroke="#e65100" stroke-width="1.5" />
+  <circle cx="246.99890323986" cy="285.199982309249" r="8" fill="#FF8A65" stroke="#e65100" stroke-width="1.5" />
+  <circle cx="118.10009511246191" cy="136.42004878080755" r="8" fill="#FF8A65" stroke="#e65100" stroke-width="1.5" />
+  <circle cx="136.2451400924072" cy="183.54817519514054" r="8" fill="#FF8A65" stroke="#e65100" stroke-width="1.5" />
+  <circle cx="114.30639715312856" cy="318.58194286701087" r="8" fill="#FF8A65" stroke="#e65100" stroke-width="1.5" />
+  <circle cx="254.03720155926047" cy="192.9355761596956" r="8" fill="#FF8A65" stroke="#e65100" stroke-width="1.5" />
+  <circle cx="207.6421197119248" cy="209.12638021213286" r="8" fill="#FF8A65" stroke="#e65100" stroke-width="1.5" />
+  <circle cx="262.0549938455141" cy="221.77037051747976" r="8" fill="#FF8A65" stroke="#e65100" stroke-width="1.5" />
+  <circle cx="125.62483496459102" cy="179.3255015387967" r="8" fill="#FF8A65" stroke="#e65100" stroke-width="1.5" />
+  <circle cx="598.4104402489452" cy="182.54832170458707" r="8" fill="#80CBC4" stroke="#00695c" stroke-width="1.5" />
+  <circle cx="605.3757970670622" cy="309.5645767204954" r="8" fill="#80CBC4" stroke="#00695c" stroke-width="1.5" />
+  <circle cx="549.8201515421192" cy="173.86415183145667" r="8" fill="#80CBC4" stroke="#00695c" stroke-width="1.5" />
+  <circle cx="729.261281948533" cy="231.9052587352929" r="8" fill="#80CBC4" stroke="#00695c" stroke-width="1.5" />
+  <circle cx="457.2728236521382" cy="139.4232750849469" r="8" fill="#80CBC4" stroke="#00695c" stroke-width="1.5" />
+  <circle cx="462.89473910519774" cy="255.489208340618" r="8" fill="#80CBC4" stroke="#00695c" stroke-width="1.5" />
+  <circle cx="667.6238093088892" cy="214.43199335993683" r="8" fill="#80CBC4" stroke="#00695c" stroke-width="1.5" />
+  <circle cx="449.0583118455871" cy="206.32385730130736" r="8" fill="#80CBC4" stroke="#00695c" stroke-width="1.5" />
+  <circle cx="728.836414072029" cy="235.8228690198274" r="8" fill="#80CBC4" stroke="#00695c" stroke-width="1.5" />
+  <circle cx="721.3235132840855" cy="302.15594044689965" r="8" fill="#80CBC4" stroke="#00695c" stroke-width="1.5" />
+  <circle cx="433.4443065828459" cy="274.1443638720389" r="8" fill="#80CBC4" stroke="#00695c" stroke-width="1.5" />
+  <circle cx="634.5131107079724" cy="237.39406608175904" r="8" fill="#80CBC4" stroke="#00695c" stroke-width="1.5" />
+  <defs><marker id="bigArrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto"><path d="M 0 0 L 10 5 L 0 10 z" fill="#1565c0" /></marker></defs>
+  <line x1="200" y1="380" x2="600" y2="380" stroke="#1565c0" stroke-width="4" marker-end="url(#bigArrow)" />
+  <text x="400" y="408" font-size="14" fill="#1565c0" text-anchor="middle" font-weight="bold">Molecules move HIGH → LOW</text>
 </svg>

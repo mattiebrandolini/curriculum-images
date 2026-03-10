@@ -17,49 +17,49 @@
         },
         "03": {
           "alt": "Why Molecules Move   The Concentration Gradient",
-          "status": "needed",
+          "status": "generated",
           "svg_file": "bio/Checkpoint_13_Cell_Transport_img03.svg",
           "notes": ""
         },
         "04": {
           "alt": "Simple Diffusion   Passing Straight Through",
-          "status": "needed",
+          "status": "generated",
           "svg_file": "bio/Checkpoint_13_Cell_Transport_img04.svg",
           "notes": ""
         },
         "05": {
           "alt": "Facilitated Diffusion   Needing a Door",
-          "status": "needed",
+          "status": "generated",
           "svg_file": "bio/Checkpoint_13_Cell_Transport_img05.svg",
           "notes": ""
         },
         "06": {
           "alt": "Osmosis   Water",
-          "status": "needed",
+          "status": "generated",
           "svg_file": "bio/Checkpoint_13_Cell_Transport_img06.svg",
           "notes": ""
         },
         "07": {
           "alt": "Tonicity   The Three Solutions",
-          "status": "needed",
+          "status": "generated",
           "svg_file": "bio/Checkpoint_13_Cell_Transport_img07.svg",
           "notes": ""
         },
         "08": {
           "alt": "Active Transport   Fighting the Current",
-          "status": "needed",
+          "status": "generated",
           "svg_file": "bio/Checkpoint_13_Cell_Transport_img08.svg",
           "notes": ""
         },
         "09": {
           "alt": "Bulk Transport   Moving Big Things",
-          "status": "needed",
+          "status": "generated",
           "svg_file": "bio/Checkpoint_13_Cell_Transport_img09.svg",
           "notes": ""
         },
         "10": {
           "alt": "Why This Matters   Your Cells Right Now",
-          "status": "needed",
+          "status": "generated",
           "svg_file": "bio/Checkpoint_13_Cell_Transport_img10.svg",
           "notes": ""
         }
@@ -70,13 +70,13 @@
       "slots": {
         "01": {
           "alt": "Bacteriophage T4 infecting a bacterium",
-          "status": "needed",
+          "status": "generated",
           "svg_file": "bio/Checkpoint_14_Viruses_Immune_Response_img01.svg",
           "notes": ""
         },
         "02": {
           "alt": "Why Viruses Are Different from Everything Else",
-          "status": "needed",
+          "status": "generated",
           "svg_file": "bio/Checkpoint_14_Viruses_Immune_Response_img02.svg",
           "notes": ""
         },

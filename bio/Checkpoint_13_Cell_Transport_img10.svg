@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 280" 
+     width="800" height="280" style="background: white; font-family: Arial, Helvetica, sans-serif;">
+  <text x="400" y="35" font-size="20" fill="#333333" text-anchor="middle" font-weight="bold">Transport in Your Body Now</text>
+  <rect x="50" y="55" width="220" height="205" fill="#e3f2fd" stroke="#1565c0" rx="4" />
+  <rect x="50" y="55" width="220" height="40" fill="#1565c0" stroke="#1565c0" rx="4" />
+  <text x="160" y="82" font-size="14" fill="white" text-anchor="middle" font-weight="bold">Lungs</text>
+  <text x="160" y="120" font-size="12" fill="#333333" text-anchor="middle" font-weight="normal">O₂ diffuses in</text>
+  <text x="160" y="150" font-size="12" fill="#333333" text-anchor="middle" font-weight="normal">(diffusion)</text>
+  <rect x="290" y="55" width="220" height="205" fill="#e3f2fd" stroke="#00695c" rx="4" />
+  <rect x="290" y="55" width="220" height="40" fill="#00695c" stroke="#00695c" rx="4" />
+  <text x="400" y="82" font-size="14" fill="white" text-anchor="middle" font-weight="bold">Kidneys</text>
+  <text x="400" y="120" font-size="12" fill="#333333" text-anchor="middle" font-weight="normal">Water moves out</text>
+  <text x="400" y="150" font-size="12" fill="#333333" text-anchor="middle" font-weight="normal">(osmosis)</text>
+  <rect x="530" y="55" width="220" height="205" fill="#fff3e0" stroke="#e65100" rx="4" />
+  <rect x="530" y="55" width="220" height="40" fill="#e65100" stroke="#e65100" rx="4" />
+  <text x="640" y="82" font-size="14" fill="white" text-anchor="middle" font-weight="bold">Intestines</text>
+  <text x="640" y="120" font-size="12" fill="#333333" text-anchor="middle" font-weight="normal">Nutrients absorbed</text>
+  <text x="640" y="150" font-size="12" fill="#333333" text-anchor="middle" font-weight="normal">(active transport)</text>
+</svg>

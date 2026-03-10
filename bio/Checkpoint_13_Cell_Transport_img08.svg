@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 420" 
+     width="800" height="420" style="background: white; font-family: Arial, Helvetica, sans-serif;">
+  <text x="400" y="35" font-size="22" fill="#333333" text-anchor="middle" font-weight="bold">Active Transport</text>
+  <text x="400" y="58" font-size="13" fill="#666666" text-anchor="middle" font-weight="normal">Moves molecules from LOW to HIGH concentration</text>
+  <rect x="40" y="80" width="310" height="280" fill="#E8F5E9" stroke="#A5D6A7" rx="10" />
+  <text x="195" y="105" font-size="15" fill="#43a047" text-anchor="middle" font-weight="bold">LOW Concentration</text>
+  <rect x="450" y="80" width="310" height="280" fill="#FFEBEE" stroke="#EF9A9A" rx="10" />
+  <text x="605" y="105" font-size="15" fill="#c62828" text-anchor="middle" font-weight="bold">HIGH Concentration</text>
+  <rect x="350" y="80" width="100" height="280" fill="#FFB74D" stroke="#F57C00" rx="0" />
+  <text x="400" y="230" font-size="11" fill="#5D4037" text-anchor="middle" font-weight="bold">Cell</text>
+  <text x="400" y="248" font-size="11" fill="#5D4037" text-anchor="middle" font-weight="bold">Membrane</text>
+  <rect x="375" y="150" width="50" height="80" fill="#7E57C2" stroke="#4527A0" rx="8" />
+  <text x="400" y="185" font-size="9" fill="white" text-anchor="middle" font-weight="bold">Protein</text>
+  <text x="400" y="198" font-size="9" fill="white" text-anchor="middle" font-weight="bold">Pump</text>
+  <circle cx="120" cy="180" r="10" fill="#66BB6A" stroke="#388E3C" stroke-width="2" />
+  <circle cx="200" cy="250" r="10" fill="#66BB6A" stroke="#388E3C" stroke-width="2" />
+  <circle cx="100" cy="300" r="10" fill="#66BB6A" stroke="#388E3C" stroke-width="2" />
+  <circle cx="250" cy="170" r="10" fill="#66BB6A" stroke="#388E3C" stroke-width="2" />
+  <circle cx="160" cy="320" r="10" fill="#66BB6A" stroke="#388E3C" stroke-width="2" />
+  <circle cx="490" cy="150" r="10" fill="#EF5350" stroke="#C62828" stroke-width="2" />
+  <circle cx="540" cy="180" r="10" fill="#EF5350" stroke="#C62828" stroke-width="2" />
+  <circle cx="600" cy="140" r="10" fill="#EF5350" stroke="#C62828" stroke-width="2" />
+  <circle cx="680" cy="170" r="10" fill="#EF5350" stroke="#C62828" stroke-width="2" />
+  <circle cx="720" cy="200" r="10" fill="#EF5350" stroke="#C62828" stroke-width="2" />
+  <circle cx="500" cy="240" r="10" fill="#EF5350" stroke="#C62828" stroke-width="2" />
+  <circle cx="560" cy="260" r="10" fill="#EF5350" stroke="#C62828" stroke-width="2" />
+  <circle cx="640" cy="230" r="10" fill="#EF5350" stroke="#C62828" stroke-width="2" />
+  <circle cx="700" cy="260" r="10" fill="#EF5350" stroke="#C62828" stroke-width="2" />
+  <circle cx="480" cy="310" r="10" fill="#EF5350" stroke="#C62828" stroke-width="2" />
+  <circle cx="550" cy="330" r="10" fill="#EF5350" stroke="#C62828" stroke-width="2" />
+  <circle cx="620" cy="300" r="10" fill="#EF5350" stroke="#C62828" stroke-width="2" />
+  <circle cx="690" cy="320" r="10" fill="#EF5350" stroke="#C62828" stroke-width="2" />
+  <circle cx="530" cy="150" r="10" fill="#EF5350" stroke="#C62828" stroke-width="2" />
+  <circle cx="660" cy="290" r="10" fill="#EF5350" stroke="#C62828" stroke-width="2" />
+  <circle cx="310" cy="190" r="10" fill="#66BB6A" stroke="#388E3C" stroke-width="2" />
+  <defs><marker id="arrowAT" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#4527A0" /></marker></defs>
+  <path d="M 310 190 Q 340 160 400 160 Q 460 160 460 190" stroke="#4527A0" stroke-width="3" fill="none" stroke-dasharray="6,3" marker-end="url(#arrowAT)" />
+  <circle cx="465" cy="190" r="10" fill="#66BB6A" stroke="#388E3C" stroke-width="2" />
+  <circle cx="465" cy="190" r="10" fill="#66BB6A" stroke="#FDD835" stroke-width="3" />
+  <polygon points="400,265 407,280 425,283 412,295 415,313 400,304 385,313 388,295 375,283 393,280" fill="#FDD835" stroke="#F9A825" stroke-width="1.5" />
+  <text x="400" y="296" font-size="10" fill="#E65100" text-anchor="middle" font-weight="bold">ATP</text>
+  <text x="400" y="340" font-size="13" fill="#e65100" text-anchor="middle" font-weight="bold">Energy needed!</text>
+  <line x1="100" y1="390" x2="700" y2="390" stroke="#BDBDBD" stroke-width="1" />
+  <path d="M 200 405 Q 400 370 600 405" stroke="#9E9E9E" stroke-width="2" fill="none" />
+  <circle cx="280" cy="400" r="8" fill="#66BB6A" stroke="#388E3C" stroke-width="2" />
+  <defs><marker id="arrow_290_395_400_380" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#e65100" /></marker></defs>
+  <line x1="290" y1="395" x2="400" y2="380" stroke="#e65100" stroke-width="2" marker-end="url(#arrow_290_395_400_380)" />
+  <text x="500" y="415" font-size="12" fill="#666666" text-anchor="middle" font-weight="normal">Like pushing a ball uphill</text>
+</svg>

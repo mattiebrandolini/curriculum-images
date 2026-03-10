@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 340" 
+     width="800" height="340" style="background: white; font-family: Arial, Helvetica, sans-serif;">
+  <text x="400" y="35" font-size="20" fill="#333333" text-anchor="middle" font-weight="bold">Viruses vs. Living Cells</text>
+  <rect x="40" y="60" width="340" height="260" fill="#f3e5f5" stroke="#7b1fa2" rx="4" />
+  <rect x="40" y="60" width="340" height="40" fill="#7b1fa2" stroke="#7b1fa2" rx="4" />
+  <text x="210" y="87" font-size="16" fill="white" text-anchor="middle" font-weight="bold">Virus</text>
+  <text x="210" y="130" font-size="14" fill="#333333" text-anchor="middle" font-weight="normal">No cells</text>
+  <text x="210" y="170" font-size="14" fill="#333333" text-anchor="middle" font-weight="normal">No energy use</text>
+  <text x="210" y="210" font-size="14" fill="#333333" text-anchor="middle" font-weight="normal">Cannot reproduce alone</text>
+  <text x="210" y="250" font-size="14" fill="#333333" text-anchor="middle" font-weight="normal">DNA or RNA (not both)</text>
+  <text x="210" y="290" font-size="14" fill="#333333" text-anchor="middle" font-weight="normal">Not alive</text>
+  <rect x="420" y="60" width="340" height="260" fill="#e8f5e9" stroke="#43a047" rx="4" />
+  <rect x="420" y="60" width="340" height="40" fill="#43a047" stroke="#43a047" rx="4" />
+  <text x="590" y="87" font-size="16" fill="white" text-anchor="middle" font-weight="bold">Living Cell</text>
+  <text x="590" y="130" font-size="14" fill="#333333" text-anchor="middle" font-weight="normal">Made of cells</text>
+  <text x="590" y="170" font-size="14" fill="#333333" text-anchor="middle" font-weight="normal">Uses energy (ATP)</text>
+  <text x="590" y="210" font-size="14" fill="#333333" text-anchor="middle" font-weight="normal">Reproduces on its own</text>
+  <text x="590" y="250" font-size="14" fill="#333333" text-anchor="middle" font-weight="normal">Has DNA and RNA</text>
+  <text x="590" y="290" font-size="14" fill="#333333" text-anchor="middle" font-weight="normal">Alive</text>
+  <circle cx="400" cy="190" r="20" fill="white" stroke="#ccc" stroke-width="2" />
+  <text x="400" y="196" font-size="12" fill="#666666" text-anchor="middle" font-weight="bold">VS</text>
+</svg>
