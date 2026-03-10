@@ -1,0 +1,3557 @@
+{
+  "bio": {
+    "Checkpoint_13_Cell_Transport": {
+      "lesson_name": "Checkpoint 13 Cell Transport",
+      "slots": {
+        "01": {
+          "alt": "Cell Membrane Osmosis Biology",
+          "status": "generated",
+          "svg_file": "bio/Checkpoint_13_Cell_Transport_img01.svg",
+          "notes": ""
+        },
+        "02": {
+          "alt": "Diffusion Concentration Gradient Cell",
+          "status": "generated",
+          "svg_file": "bio/Checkpoint_13_Cell_Transport_img02.svg",
+          "notes": ""
+        },
+        "03": {
+          "alt": "Why Molecules Move   The Concentration Gradient",
+          "status": "needed",
+          "svg_file": "bio/Checkpoint_13_Cell_Transport_img03.svg",
+          "notes": ""
+        },
+        "04": {
+          "alt": "Simple Diffusion   Passing Straight Through",
+          "status": "needed",
+          "svg_file": "bio/Checkpoint_13_Cell_Transport_img04.svg",
+          "notes": ""
+        },
+        "05": {
+          "alt": "Facilitated Diffusion   Needing a Door",
+          "status": "needed",
+          "svg_file": "bio/Checkpoint_13_Cell_Transport_img05.svg",
+          "notes": ""
+        },
+        "06": {
+          "alt": "Osmosis   Water",
+          "status": "needed",
+          "svg_file": "bio/Checkpoint_13_Cell_Transport_img06.svg",
+          "notes": ""
+        },
+        "07": {
+          "alt": "Tonicity   The Three Solutions",
+          "status": "needed",
+          "svg_file": "bio/Checkpoint_13_Cell_Transport_img07.svg",
+          "notes": ""
+        },
+        "08": {
+          "alt": "Active Transport   Fighting the Current",
+          "status": "needed",
+          "svg_file": "bio/Checkpoint_13_Cell_Transport_img08.svg",
+          "notes": ""
+        },
+        "09": {
+          "alt": "Bulk Transport   Moving Big Things",
+          "status": "needed",
+          "svg_file": "bio/Checkpoint_13_Cell_Transport_img09.svg",
+          "notes": ""
+        },
+        "10": {
+          "alt": "Why This Matters   Your Cells Right Now",
+          "status": "needed",
+          "svg_file": "bio/Checkpoint_13_Cell_Transport_img10.svg",
+          "notes": ""
+        }
+      }
+    },
+    "Checkpoint_14_Viruses_Immune_Response": {
+      "lesson_name": "Checkpoint 14 Viruses Immune Response",
+      "slots": {
+        "01": {
+          "alt": "Bacteriophage T4 infecting a bacterium",
+          "status": "needed",
+          "svg_file": "bio/Checkpoint_14_Viruses_Immune_Response_img01.svg",
+          "notes": ""
+        },
+        "02": {
+          "alt": "Why Viruses Are Different from Everything Else",
+          "status": "needed",
+          "svg_file": "bio/Checkpoint_14_Viruses_Immune_Response_img02.svg",
+          "notes": ""
+        },
+        "03": {
+          "alt": "Virus Structure   What",
+          "status": "needed",
+          "svg_file": "bio/Checkpoint_14_Viruses_Immune_Response_img03.svg",
+          "notes": ""
+        },
+        "04": {
+          "alt": "3D illustration of the SARS-CoV-2 coronavirus showing spike proteins on its surface and the envelope structure",
+          "status": "needed",
+          "svg_file": "bio/Checkpoint_14_Viruses_Immune_Response_img04.svg",
+          "notes": ""
+        },
+        "05": {
+          "alt": "The Lytic Cycle   Fast and Destructive",
+          "status": "needed",
+          "svg_file": "bio/Checkpoint_14_Viruses_Immune_Response_img05.svg",
+          "notes": ""
+        },
+        "06": {
+          "alt": "The Lysogenic Cycle   The Sneaky Strategy",
+          "status": "needed",
+          "svg_file": "bio/Checkpoint_14_Viruses_Immune_Response_img06.svg",
+          "notes": ""
+        },
+        "07": {
+          "alt": "Your Body Fights Back   The Immune System",
+          "status": "needed",
+          "svg_file": "bio/Checkpoint_14_Viruses_Immune_Response_img07.svg",
+          "notes": ""
+        },
+        "08": {
+          "alt": "Vaccines, Antivirals, and Antibiotics   Know the Difference",
+          "status": "needed",
+          "svg_file": "bio/Checkpoint_14_Viruses_Immune_Response_img08.svg",
+          "notes": ""
+        },
+        "09": {
+          "alt": "When Viruses Evolve   HIV and the Flu",
+          "status": "needed",
+          "svg_file": "bio/Checkpoint_14_Viruses_Immune_Response_img09.svg",
+          "notes": ""
+        }
+      }
+    },
+    "Checkpoint_15_Bacteria": {
+      "lesson_name": "Checkpoint 15 Bacteria",
+      "slots": {
+        "01": {
+          "alt": "E. coli bacteria (SEM, 10,000x magnification",
+          "status": "needed",
+          "svg_file": "bio/Checkpoint_15_Bacteria_img01.svg",
+          "notes": ""
+        },
+        "02": {
+          "alt": "Streptococcus pyogenes bacteria",
+          "status": "needed",
+          "svg_file": "bio/Checkpoint_15_Bacteria_img02.svg",
+          "notes": ""
+        },
+        "03": {
+          "alt": "Prokaryote vs. Eukaryote   Pro Means No",
+          "status": "needed",
+          "svg_file": "bio/Checkpoint_15_Bacteria_img03.svg",
+          "notes": ""
+        },
+        "04": {
+          "alt": "Bacterial Structure   Simple But Effective",
+          "status": "needed",
+          "svg_file": "bio/Checkpoint_15_Bacteria_img04.svg",
+          "notes": ""
+        },
+        "05": {
+          "alt": "Bacterial Shapes   The Name Tells You",
+          "status": "needed",
+          "svg_file": "bio/Checkpoint_15_Bacteria_img05.svg",
+          "notes": ""
+        },
+        "06": {
+          "alt": "Bacteria in Your Life   Not All Bad",
+          "status": "needed",
+          "svg_file": "bio/Checkpoint_15_Bacteria_img06.svg",
+          "notes": ""
+        },
+        "07": {
+          "alt": "How Bacteria Reproduce   Binary Fission",
+          "status": "needed",
+          "svg_file": "bio/Checkpoint_15_Bacteria_img07.svg",
+          "notes": ""
+        },
+        "08": {
+          "alt": "Sharing Genes   Horizontal Gene Transfer",
+          "status": "needed",
+          "svg_file": "bio/Checkpoint_15_Bacteria_img08.svg",
+          "notes": ""
+        },
+        "09": {
+          "alt": "Antibiotic Resistance   When the Medicine Stops Working",
+          "status": "needed",
+          "svg_file": "bio/Checkpoint_15_Bacteria_img09.svg",
+          "notes": ""
+        }
+      }
+    },
+    "Checkpoint_16_Photosynthesis_Plants": {
+      "lesson_name": "Checkpoint 16 Photosynthesis Plants",
+      "slots": {
+        "01": {
+          "alt": "Plant leaf cells with chloroplasts (microscope view",
+          "status": "needed",
+          "svg_file": "bio/Checkpoint_16_Photosynthesis_Plants_img01.svg",
+          "notes": ""
+        },
+        "02": {
+          "alt": "Sunflower \u2014 a photosynthesizing plant",
+          "status": "needed",
+          "svg_file": "bio/Checkpoint_16_Photosynthesis_Plants_img02.svg",
+          "notes": ""
+        },
+        "03": {
+          "alt": "The Big Picture   Why Photosynthesis Matters",
+          "status": "needed",
+          "svg_file": "bio/Checkpoint_16_Photosynthesis_Plants_img03.svg",
+          "notes": ""
+        },
+        "04": {
+          "alt": "Inside the Chloroplast   Where It All Happens",
+          "status": "needed",
+          "svg_file": "bio/Checkpoint_16_Photosynthesis_Plants_img04.svg",
+          "notes": ""
+        },
+        "05": {
+          "alt": "Act 1   The Light-Dependent Reactions",
+          "status": "needed",
+          "svg_file": "bio/Checkpoint_16_Photosynthesis_Plants_img05.svg",
+          "notes": ""
+        },
+        "06": {
+          "alt": "Act 2   The Calvin Cycle (Light-Independent Reactions",
+          "status": "needed",
+          "svg_file": "bio/Checkpoint_16_Photosynthesis_Plants_img06.svg",
+          "notes": ""
+        },
+        "07": {
+          "alt": "RuBisCo   The Most Important (and Worst",
+          "status": "needed",
+          "svg_file": "bio/Checkpoint_16_Photosynthesis_Plants_img07.svg",
+          "notes": ""
+        },
+        "08": {
+          "alt": "Tracing Energy   From the Sun to Your Pizza",
+          "status": "needed",
+          "svg_file": "bio/Checkpoint_16_Photosynthesis_Plants_img08.svg",
+          "notes": ""
+        },
+        "09": {
+          "alt": "Stomata   The Plant",
+          "status": "needed",
+          "svg_file": "bio/Checkpoint_16_Photosynthesis_Plants_img09.svg",
+          "notes": ""
+        }
+      }
+    },
+    "Checkpoint_17_Cellular_Respiration_Fermentation": {
+      "lesson_name": "Checkpoint 17 Cellular Respiration Fermentation",
+      "slots": {
+        "01": {
+          "alt": "Mitochondria",
+          "status": "needed",
+          "svg_file": "bio/Checkpoint_17_Cellular_Respiration_Fermentation_img01.svg",
+          "notes": ""
+        },
+        "02": {
+          "alt": "Glycolysis Cellular Respiration",
+          "status": "needed",
+          "svg_file": "bio/Checkpoint_17_Cellular_Respiration_Fermentation_img02.svg",
+          "notes": ""
+        },
+        "03": {
+          "alt": "ATP   The Cell",
+          "status": "needed",
+          "svg_file": "bio/Checkpoint_17_Cellular_Respiration_Fermentation_img03.svg",
+          "notes": ""
+        },
+        "04": {
+          "alt": "Inside the Mitochondria   The Powerhouse",
+          "status": "needed",
+          "svg_file": "bio/Checkpoint_17_Cellular_Respiration_Fermentation_img04.svg",
+          "notes": ""
+        },
+        "05": {
+          "alt": "Glycolysis   Breaking Glucose in Half",
+          "status": "needed",
+          "svg_file": "bio/Checkpoint_17_Cellular_Respiration_Fermentation_img05.svg",
+          "notes": ""
+        },
+        "06": {
+          "alt": "The Krebs Cycle   Extracting Every Last Bit",
+          "status": "needed",
+          "svg_file": "bio/Checkpoint_17_Cellular_Respiration_Fermentation_img06.svg",
+          "notes": ""
+        },
+        "07": {
+          "alt": "The Electron Transport Chain   The Big Payoff",
+          "status": "needed",
+          "svg_file": "bio/Checkpoint_17_Cellular_Respiration_Fermentation_img07.svg",
+          "notes": ""
+        },
+        "08": {
+          "alt": "Fermentation   When There",
+          "status": "needed",
+          "svg_file": "bio/Checkpoint_17_Cellular_Respiration_Fermentation_img08.svg",
+          "notes": ""
+        }
+      }
+    },
+    "Checkpoint_18_Cell_Cycle_Mitosis": {
+      "lesson_name": "Checkpoint 18 Cell Cycle Mitosis",
+      "slots": {
+        "01": {
+          "alt": "Mitosis Cell Division Stages Microscope",
+          "status": "needed",
+          "svg_file": "bio/Checkpoint_18_Cell_Cycle_Mitosis_img01.svg",
+          "notes": ""
+        },
+        "02": {
+          "alt": "Cell Cycle Chromosomes Biology",
+          "status": "needed",
+          "svg_file": "bio/Checkpoint_18_Cell_Cycle_Mitosis_img02.svg",
+          "notes": ""
+        },
+        "03": {
+          "alt": "Why Cells Divide",
+          "status": "needed",
+          "svg_file": "bio/Checkpoint_18_Cell_Cycle_Mitosis_img03.svg",
+          "notes": ""
+        },
+        "04": {
+          "alt": "The Cell Cycle   The Big Picture",
+          "status": "needed",
+          "svg_file": "bio/Checkpoint_18_Cell_Cycle_Mitosis_img04.svg",
+          "notes": ""
+        },
+        "05": {
+          "alt": "Interphase   G1, S, and G2",
+          "status": "needed",
+          "svg_file": "bio/Checkpoint_18_Cell_Cycle_Mitosis_img05.svg",
+          "notes": ""
+        },
+        "06": {
+          "alt": "Checkpoints   The Cell",
+          "status": "needed",
+          "svg_file": "bio/Checkpoint_18_Cell_Cycle_Mitosis_img06.svg",
+          "notes": ""
+        },
+        "07": {
+          "alt": "When Checkpoints Fail   Cancer",
+          "status": "needed",
+          "svg_file": "bio/Checkpoint_18_Cell_Cycle_Mitosis_img07.svg",
+          "notes": ""
+        },
+        "08": {
+          "alt": "The Result   Two Identical Cells",
+          "status": "needed",
+          "svg_file": "bio/Checkpoint_18_Cell_Cycle_Mitosis_img08.svg",
+          "notes": ""
+        }
+      }
+    },
+    "Checkpoint_19_Mitosis_vs_Meiosis": {
+      "lesson_name": "Checkpoint 19 Mitosis vs Meiosis",
+      "slots": {
+        "01": {
+          "alt": "Meiosis Cell Division Biology",
+          "status": "needed",
+          "svg_file": "bio/Checkpoint_19_Mitosis_vs_Meiosis_img01.svg",
+          "notes": ""
+        },
+        "02": {
+          "alt": "Meiosis Cell Division Biology",
+          "status": "needed",
+          "svg_file": "bio/Checkpoint_19_Mitosis_vs_Meiosis_img02.svg",
+          "notes": ""
+        },
+        "03": {
+          "alt": "Two Jobs, Two Processes",
+          "status": "needed",
+          "svg_file": "bio/Checkpoint_19_Mitosis_vs_Meiosis_img03.svg",
+          "notes": ""
+        },
+        "04": {
+          "alt": "Diploid vs. Haploid   The Number Problem",
+          "status": "needed",
+          "svg_file": "bio/Checkpoint_19_Mitosis_vs_Meiosis_img04.svg",
+          "notes": ""
+        },
+        "05": {
+          "alt": "Meiosis I   The Reduction Division",
+          "status": "needed",
+          "svg_file": "bio/Checkpoint_19_Mitosis_vs_Meiosis_img05.svg",
+          "notes": ""
+        },
+        "06": {
+          "alt": "Meiosis II   The Familiar Division",
+          "status": "needed",
+          "svg_file": "bio/Checkpoint_19_Mitosis_vs_Meiosis_img06.svg",
+          "notes": ""
+        },
+        "07": {
+          "alt": "The Side-by-Side Comparison",
+          "status": "needed",
+          "svg_file": "bio/Checkpoint_19_Mitosis_vs_Meiosis_img07.svg",
+          "notes": ""
+        },
+        "08": {
+          "alt": "Three Sources of Genetic Variation",
+          "status": "needed",
+          "svg_file": "bio/Checkpoint_19_Mitosis_vs_Meiosis_img08.svg",
+          "notes": ""
+        },
+        "09": {
+          "alt": "Nondisjunction   When Chromosomes Don",
+          "status": "needed",
+          "svg_file": "bio/Checkpoint_19_Mitosis_vs_Meiosis_img09.svg",
+          "notes": ""
+        },
+        "10": {
+          "alt": "Putting It All Together",
+          "status": "needed",
+          "svg_file": "bio/Checkpoint_19_Mitosis_vs_Meiosis_img10.svg",
+          "notes": ""
+        }
+      }
+    },
+    "Checkpoint_20_DNA_Structure_Replication": {
+      "lesson_name": "Checkpoint 20 DNA Structure Replication",
+      "slots": {
+        "01": {
+          "alt": "Dna Double Helix Structure Model",
+          "status": "needed",
+          "svg_file": "bio/Checkpoint_20_DNA_Structure_Replication_img01.svg",
+          "notes": ""
+        },
+        "02": {
+          "alt": "Dna Replication Biology",
+          "status": "needed",
+          "svg_file": "bio/Checkpoint_20_DNA_Structure_Replication_img02.svg",
+          "notes": ""
+        },
+        "03": {
+          "alt": "What Is DNA?",
+          "status": "needed",
+          "svg_file": "bio/Checkpoint_20_DNA_Structure_Replication_img03.svg",
+          "notes": ""
+        },
+        "04": {
+          "alt": "Nucleotides   The Building Blocks",
+          "status": "needed",
+          "svg_file": "bio/Checkpoint_20_DNA_Structure_Replication_img04.svg",
+          "notes": ""
+        },
+        "05": {
+          "alt": "Base Pairing Rules   Chargaff s Rules",
+          "status": "needed",
+          "svg_file": "bio/Checkpoint_20_DNA_Structure_Replication_img05.svg",
+          "notes": ""
+        },
+        "06": {
+          "alt": "The Double Helix   Antiparallel Strands",
+          "status": "needed",
+          "svg_file": "bio/Checkpoint_20_DNA_Structure_Replication_img06.svg",
+          "notes": ""
+        },
+        "07": {
+          "alt": "Why DNA Must Copy Itself",
+          "status": "needed",
+          "svg_file": "bio/Checkpoint_20_DNA_Structure_Replication_img07.svg",
+          "notes": ""
+        },
+        "08": {
+          "alt": "How Replication Works   The Enzymes",
+          "status": "needed",
+          "svg_file": "bio/Checkpoint_20_DNA_Structure_Replication_img08.svg",
+          "notes": ""
+        },
+        "09": {
+          "alt": "Leading Strand vs. Lagging Strand",
+          "status": "needed",
+          "svg_file": "bio/Checkpoint_20_DNA_Structure_Replication_img09.svg",
+          "notes": ""
+        },
+        "10": {
+          "alt": "Semiconservative Replication   Error Checking",
+          "status": "needed",
+          "svg_file": "bio/Checkpoint_20_DNA_Structure_Replication_img10.svg",
+          "notes": ""
+        }
+      }
+    },
+    "Checkpoint_21_RNA_Transcription": {
+      "lesson_name": "Checkpoint 21 RNA Transcription",
+      "slots": {
+        "01": {
+          "alt": "Rna Transcription Biology Cell Nucleus",
+          "status": "needed",
+          "svg_file": "bio/Checkpoint_21_RNA_Transcription_img01.svg",
+          "notes": ""
+        },
+        "02": {
+          "alt": "Messenger Rna Ribosome Biology",
+          "status": "needed",
+          "svg_file": "bio/Checkpoint_21_RNA_Transcription_img02.svg",
+          "notes": ""
+        },
+        "03": {
+          "alt": "What Is RNA?",
+          "status": "needed",
+          "svg_file": "bio/Checkpoint_21_RNA_Transcription_img03.svg",
+          "notes": ""
+        },
+        "04": {
+          "alt": "DNA vs RNA   The Key Differences",
+          "status": "needed",
+          "svg_file": "bio/Checkpoint_21_RNA_Transcription_img04.svg",
+          "notes": ""
+        },
+        "05": {
+          "alt": "Three Types of RNA",
+          "status": "needed",
+          "svg_file": "bio/Checkpoint_21_RNA_Transcription_img05.svg",
+          "notes": ""
+        },
+        "06": {
+          "alt": "The Central Dogma",
+          "status": "needed",
+          "svg_file": "bio/Checkpoint_21_RNA_Transcription_img06.svg",
+          "notes": ""
+        },
+        "07": {
+          "alt": "How Transcription Works",
+          "status": "needed",
+          "svg_file": "bio/Checkpoint_21_RNA_Transcription_img07.svg",
+          "notes": ""
+        },
+        "08": {
+          "alt": "The Three Stages of Transcription",
+          "status": "needed",
+          "svg_file": "bio/Checkpoint_21_RNA_Transcription_img08.svg",
+          "notes": ""
+        },
+        "09": {
+          "alt": "mRNA Processing   Getting Ready to Leave",
+          "status": "needed",
+          "svg_file": "bio/Checkpoint_21_RNA_Transcription_img09.svg",
+          "notes": ""
+        },
+        "10": {
+          "alt": "Gene Regulation   Turning Genes On and Off",
+          "status": "needed",
+          "svg_file": "bio/Checkpoint_21_RNA_Transcription_img10.svg",
+          "notes": ""
+        }
+      }
+    },
+    "Checkpoint_22_Translation_Protein_Synthesis": {
+      "lesson_name": "Checkpoint 22 Translation Protein Synthesis",
+      "slots": {
+        "01": {
+          "alt": "Ribosome Protein Synthesis Biology",
+          "status": "needed",
+          "svg_file": "bio/Checkpoint_22_Translation_Protein_Synthesis_img01.svg",
+          "notes": ""
+        },
+        "02": {
+          "alt": "Amino Acid Chain Polypeptide Biology",
+          "status": "needed",
+          "svg_file": "bio/Checkpoint_22_Translation_Protein_Synthesis_img02.svg",
+          "notes": ""
+        },
+        "03": {
+          "alt": "The Genetic Code   Three Letters at a Time",
+          "status": "needed",
+          "svg_file": "bio/Checkpoint_22_Translation_Protein_Synthesis_img03.svg",
+          "notes": ""
+        },
+        "04": {
+          "alt": "Start and Stop Codons",
+          "status": "needed",
+          "svg_file": "bio/Checkpoint_22_Translation_Protein_Synthesis_img04.svg",
+          "notes": ""
+        },
+        "05": {
+          "alt": "The Ribosome   The Protein Factory",
+          "status": "needed",
+          "svg_file": "bio/Checkpoint_22_Translation_Protein_Synthesis_img05.svg",
+          "notes": ""
+        },
+        "06": {
+          "alt": "tRNA   The Delivery Truck",
+          "status": "needed",
+          "svg_file": "bio/Checkpoint_22_Translation_Protein_Synthesis_img06.svg",
+          "notes": ""
+        },
+        "07": {
+          "alt": "The Three Stages of Translation",
+          "status": "needed",
+          "svg_file": "bio/Checkpoint_22_Translation_Protein_Synthesis_img07.svg",
+          "notes": ""
+        },
+        "08": {
+          "alt": "Putting It All Together   The Central Dogma in Action",
+          "status": "needed",
+          "svg_file": "bio/Checkpoint_22_Translation_Protein_Synthesis_img08.svg",
+          "notes": ""
+        },
+        "09": {
+          "alt": "Mutations   When the Code Changes",
+          "status": "needed",
+          "svg_file": "bio/Checkpoint_22_Translation_Protein_Synthesis_img09.svg",
+          "notes": ""
+        },
+        "10": {
+          "alt": "From Protein to Function   Why This All Matters",
+          "status": "needed",
+          "svg_file": "bio/Checkpoint_22_Translation_Protein_Synthesis_img10.svg",
+          "notes": ""
+        }
+      }
+    },
+    "Checkpoint_23_Meiosis": {
+      "lesson_name": "Checkpoint 23 Meiosis",
+      "slots": {
+        "01": {
+          "alt": "Crossing Over Genetic Recombination",
+          "status": "needed",
+          "svg_file": "bio/Checkpoint_23_Meiosis_img01.svg",
+          "notes": ""
+        },
+        "02": {
+          "alt": "Crossing Over Genetic Recombination",
+          "status": "needed",
+          "svg_file": "bio/Checkpoint_23_Meiosis_img02.svg",
+          "notes": ""
+        },
+        "03": {
+          "alt": "Why Meiosis Exists",
+          "status": "needed",
+          "svg_file": "bio/Checkpoint_23_Meiosis_img03.svg",
+          "notes": ""
+        },
+        "04": {
+          "alt": "Meiosis I   The Reduction Division",
+          "status": "needed",
+          "svg_file": "bio/Checkpoint_23_Meiosis_img04.svg",
+          "notes": ""
+        },
+        "05": {
+          "alt": "Meiosis II   Just Like Mitosis",
+          "status": "needed",
+          "svg_file": "bio/Checkpoint_23_Meiosis_img05.svg",
+          "notes": ""
+        },
+        "06": {
+          "alt": "The Critical Comparison   Anaphase I vs Anaphase II",
+          "status": "needed",
+          "svg_file": "bio/Checkpoint_23_Meiosis_img06.svg",
+          "notes": ""
+        },
+        "07": {
+          "alt": "Crossing Over   Swapping DNA Segments",
+          "status": "needed",
+          "svg_file": "bio/Checkpoint_23_Meiosis_img07.svg",
+          "notes": ""
+        },
+        "08": {
+          "alt": "Independent Assortment   The Random Shuffle",
+          "status": "needed",
+          "svg_file": "bio/Checkpoint_23_Meiosis_img08.svg",
+          "notes": ""
+        },
+        "09": {
+          "alt": "Nondisjunction   When Chromosomes Fail to Separate",
+          "status": "needed",
+          "svg_file": "bio/Checkpoint_23_Meiosis_img09.svg",
+          "notes": ""
+        },
+        "10": {
+          "alt": "Why Genetic Variation Matters",
+          "status": "needed",
+          "svg_file": "bio/Checkpoint_23_Meiosis_img10.svg",
+          "notes": ""
+        }
+      }
+    },
+    "Checkpoint_24_Classification_Biodiversity": {
+      "lesson_name": "Checkpoint 24 Classification Biodiversity",
+      "slots": {
+        "01": {
+          "alt": "Genetic Variation Biology Population",
+          "status": "needed",
+          "svg_file": "bio/Checkpoint_24_Classification_Biodiversity_img01.svg",
+          "notes": ""
+        },
+        "02": {
+          "alt": "Taxonomy Classification Species Biology",
+          "status": "needed",
+          "svg_file": "bio/Checkpoint_24_Classification_Biodiversity_img02.svg",
+          "notes": ""
+        },
+        "03": {
+          "alt": "Why We Classify",
+          "status": "needed",
+          "svg_file": "bio/Checkpoint_24_Classification_Biodiversity_img03.svg",
+          "notes": ""
+        },
+        "04": {
+          "alt": "The 8 Levels of Classification",
+          "status": "needed",
+          "svg_file": "bio/Checkpoint_24_Classification_Biodiversity_img04.svg",
+          "notes": ""
+        },
+        "05": {
+          "alt": "The Three Domains",
+          "status": "needed",
+          "svg_file": "bio/Checkpoint_24_Classification_Biodiversity_img05.svg",
+          "notes": ""
+        },
+        "06": {
+          "alt": "Cladograms   Reading the Family Tree",
+          "status": "needed",
+          "svg_file": "bio/Checkpoint_24_Classification_Biodiversity_img06.svg",
+          "notes": ""
+        },
+        "07": {
+          "alt": "Dichotomous Keys   Identifying the Unknown",
+          "status": "needed",
+          "svg_file": "bio/Checkpoint_24_Classification_Biodiversity_img07.svg",
+          "notes": ""
+        },
+        "08": {
+          "alt": "The Six Kingdoms",
+          "status": "needed",
+          "svg_file": "bio/Checkpoint_24_Classification_Biodiversity_img08.svg",
+          "notes": ""
+        },
+        "09": {
+          "alt": "Evidence for Classification   More Than Just Looks",
+          "status": "needed",
+          "svg_file": "bio/Checkpoint_24_Classification_Biodiversity_img09.svg",
+          "notes": ""
+        },
+        "10": {
+          "alt": "Why Biodiversity Matters",
+          "status": "needed",
+          "svg_file": "bio/Checkpoint_24_Classification_Biodiversity_img10.svg",
+          "notes": ""
+        }
+      }
+    },
+    "Checkpoint_25_Mendelian_Genetics_Punnett_Squares": {
+      "lesson_name": "Checkpoint 25 Mendelian Genetics Punnett Squares",
+      "slots": {
+        "01": {
+          "alt": "Gregor Mendel Pea Plants Genetics",
+          "status": "needed",
+          "svg_file": "bio/Checkpoint_25_Mendelian_Genetics_Punnett_Squares_img01.svg",
+          "notes": ""
+        },
+        "02": {
+          "alt": "Pea Plant Flower Biology Experiment",
+          "status": "needed",
+          "svg_file": "bio/Checkpoint_25_Mendelian_Genetics_Punnett_Squares_img02.svg",
+          "notes": ""
+        },
+        "03": {
+          "alt": "Mendel and His Peas",
+          "status": "needed",
+          "svg_file": "bio/Checkpoint_25_Mendelian_Genetics_Punnett_Squares_img03.svg",
+          "notes": ""
+        },
+        "04": {
+          "alt": "Alleles, Genotype, and Phenotype",
+          "status": "needed",
+          "svg_file": "bio/Checkpoint_25_Mendelian_Genetics_Punnett_Squares_img04.svg",
+          "notes": ""
+        },
+        "05": {
+          "alt": "The Punnett Square   Predicting Offspring",
+          "status": "needed",
+          "svg_file": "bio/Checkpoint_25_Mendelian_Genetics_Punnett_Squares_img05.svg",
+          "notes": ""
+        },
+        "06": {
+          "alt": "The Law of Segregation",
+          "status": "needed",
+          "svg_file": "bio/Checkpoint_25_Mendelian_Genetics_Punnett_Squares_img06.svg",
+          "notes": ""
+        },
+        "07": {
+          "alt": "Test Crosses   Cracking the Code",
+          "status": "needed",
+          "svg_file": "bio/Checkpoint_25_Mendelian_Genetics_Punnett_Squares_img07.svg",
+          "notes": ""
+        },
+        "08": {
+          "alt": "Dihybrid Crosses   Two Traits at Once",
+          "status": "needed",
+          "svg_file": "bio/Checkpoint_25_Mendelian_Genetics_Punnett_Squares_img08.svg",
+          "notes": ""
+        },
+        "09": {
+          "alt": "The Law of Independent Assortment",
+          "status": "needed",
+          "svg_file": "bio/Checkpoint_25_Mendelian_Genetics_Punnett_Squares_img09.svg",
+          "notes": ""
+        },
+        "10": {
+          "alt": "Probability and Genetics   Why Ratios Are Not Guarantees",
+          "status": "needed",
+          "svg_file": "bio/Checkpoint_25_Mendelian_Genetics_Punnett_Squares_img10.svg",
+          "notes": ""
+        }
+      }
+    },
+    "Checkpoint_26_More_Punnett_Squares": {
+      "lesson_name": "Checkpoint 26 More Punnett Squares",
+      "slots": {
+        "01": {
+          "alt": "Punnett Square Genetics",
+          "status": "needed",
+          "svg_file": "bio/Checkpoint_26_More_Punnett_Squares_img01.svg",
+          "notes": ""
+        },
+        "02": {
+          "alt": "Dominant Recessive Alleles Diagram",
+          "status": "needed",
+          "svg_file": "bio/Checkpoint_26_More_Punnett_Squares_img02.svg",
+          "notes": ""
+        },
+        "03": {
+          "alt": "Reading a Genetics Problem   The Recipe Approach",
+          "status": "needed",
+          "svg_file": "bio/Checkpoint_26_More_Punnett_Squares_img03.svg",
+          "notes": ""
+        },
+        "04": {
+          "alt": "The Test Cross   Genetic Detective Work",
+          "status": "needed",
+          "svg_file": "bio/Checkpoint_26_More_Punnett_Squares_img04.svg",
+          "notes": ""
+        },
+        "05": {
+          "alt": "Probability   The Weather Forecast Analogy",
+          "status": "needed",
+          "svg_file": "bio/Checkpoint_26_More_Punnett_Squares_img05.svg",
+          "notes": ""
+        },
+        "06": {
+          "alt": "Dihybrid Crosses   Ice Cream Combinations",
+          "status": "needed",
+          "svg_file": "bio/Checkpoint_26_More_Punnett_Squares_img06.svg",
+          "notes": ""
+        },
+        "07": {
+          "alt": "Real-World Application   Genetic Counseling",
+          "status": "needed",
+          "svg_file": "bio/Checkpoint_26_More_Punnett_Squares_img07.svg",
+          "notes": ""
+        },
+        "08": {
+          "alt": "Why Ratios Matter   The Coin Flip Lesson",
+          "status": "needed",
+          "svg_file": "bio/Checkpoint_26_More_Punnett_Squares_img08.svg",
+          "notes": ""
+        }
+      }
+    },
+    "Checkpoint_27_Alleles_Genes": {
+      "lesson_name": "Checkpoint 27 Alleles Genes",
+      "slots": {
+        "01": {
+          "alt": "Chromosome Gene Allele Biology",
+          "status": "needed",
+          "svg_file": "bio/Checkpoint_27_Alleles_Genes_img01.svg",
+          "notes": ""
+        },
+        "02": {
+          "alt": "Dna Gene Expression Biology",
+          "status": "needed",
+          "svg_file": "bio/Checkpoint_27_Alleles_Genes_img02.svg",
+          "notes": ""
+        },
+        "03": {
+          "alt": "Incomplete Dominance   Mixing Paint Colors",
+          "status": "needed",
+          "svg_file": "bio/Checkpoint_27_Alleles_Genes_img03.svg",
+          "notes": ""
+        },
+        "04": {
+          "alt": "Codominance   Both Colors Side by Side",
+          "status": "needed",
+          "svg_file": "bio/Checkpoint_27_Alleles_Genes_img04.svg",
+          "notes": ""
+        },
+        "05": {
+          "alt": "Multiple Alleles   Blood Types Have Three Options",
+          "status": "needed",
+          "svg_file": "bio/Checkpoint_27_Alleles_Genes_img05.svg",
+          "notes": ""
+        },
+        "06": {
+          "alt": "Polygenic Traits   Many Genes, One Trait",
+          "status": "needed",
+          "svg_file": "bio/Checkpoint_27_Alleles_Genes_img06.svg",
+          "notes": ""
+        },
+        "07": {
+          "alt": "Sex-Linked Traits   Why Boys Get Colorblindness More",
+          "status": "needed",
+          "svg_file": "bio/Checkpoint_27_Alleles_Genes_img07.svg",
+          "notes": ""
+        },
+        "08": {
+          "alt": "Pedigrees   The Family Tree Detective",
+          "status": "needed",
+          "svg_file": "bio/Checkpoint_27_Alleles_Genes_img08.svg",
+          "notes": ""
+        },
+        "09": {
+          "alt": "The Big Picture   Mendel Was Just the Beginning",
+          "status": "needed",
+          "svg_file": "bio/Checkpoint_27_Alleles_Genes_img09.svg",
+          "notes": ""
+        }
+      }
+    },
+    "Checkpoint_28_Pedigrees": {
+      "lesson_name": "Checkpoint 28 Pedigrees",
+      "slots": {
+        "01": {
+          "alt": "Family Pedigree Genetics Chart Biology",
+          "status": "needed",
+          "svg_file": "bio/Checkpoint_28_Pedigrees_img01.svg",
+          "notes": ""
+        },
+        "02": {
+          "alt": "Hereditary Trait Family Genetics",
+          "status": "needed",
+          "svg_file": "bio/Checkpoint_28_Pedigrees_img02.svg",
+          "notes": ""
+        },
+        "03": {
+          "alt": "The Symbol System   A Universal Language",
+          "status": "needed",
+          "svg_file": "bio/Checkpoint_28_Pedigrees_img03.svg",
+          "notes": ""
+        },
+        "04": {
+          "alt": "The First Question   Dominant or Recessive?",
+          "status": "needed",
+          "svg_file": "bio/Checkpoint_28_Pedigrees_img04.svg",
+          "notes": ""
+        },
+        "05": {
+          "alt": "The Second Question   Autosomal or Sex-Linked?",
+          "status": "needed",
+          "svg_file": "bio/Checkpoint_28_Pedigrees_img05.svg",
+          "notes": ""
+        },
+        "06": {
+          "alt": "Assigning Genotypes   Working from What You Know",
+          "status": "needed",
+          "svg_file": "bio/Checkpoint_28_Pedigrees_img06.svg",
+          "notes": ""
+        },
+        "07": {
+          "alt": "Carriers   The Hidden Link",
+          "status": "needed",
+          "svg_file": "bio/Checkpoint_28_Pedigrees_img07.svg",
+          "notes": ""
+        },
+        "08": {
+          "alt": "Real-World Pedigrees   The Royal Hemophilia Story",
+          "status": "needed",
+          "svg_file": "bio/Checkpoint_28_Pedigrees_img08.svg",
+          "notes": ""
+        },
+        "09": {
+          "alt": "Pedigrees in Modern Medicine",
+          "status": "needed",
+          "svg_file": "bio/Checkpoint_28_Pedigrees_img09.svg",
+          "notes": ""
+        }
+      }
+    },
+    "Checkpoint_29_Codominance_Incomplete_Dominance": {
+      "lesson_name": "Checkpoint 29 Codominance Incomplete Dominance",
+      "slots": {
+        "01": {
+          "alt": "Blood Type Abo Genetics Biology",
+          "status": "needed",
+          "svg_file": "bio/Checkpoint_29_Codominance_Incomplete_Dominance_img01.svg",
+          "notes": ""
+        },
+        "02": {
+          "alt": "Blood Type Abo Genetics Biology",
+          "status": "needed",
+          "svg_file": "bio/Checkpoint_29_Codominance_Incomplete_Dominance_img02.svg",
+          "notes": ""
+        },
+        "03": {
+          "alt": "Incomplete Dominance   Mixing Paint",
+          "status": "needed",
+          "svg_file": "bio/Checkpoint_29_Codominance_Incomplete_Dominance_img03.svg",
+          "notes": ""
+        },
+        "04": {
+          "alt": "Codominance   Both Colors Side by Side",
+          "status": "needed",
+          "svg_file": "bio/Checkpoint_29_Codominance_Incomplete_Dominance_img04.svg",
+          "notes": ""
+        },
+        "05": {
+          "alt": "Blood Types   Three Alleles, Two Rules at Once",
+          "status": "needed",
+          "svg_file": "bio/Checkpoint_29_Codominance_Incomplete_Dominance_img05.svg",
+          "notes": ""
+        },
+        "06": {
+          "alt": "Sickle Cell   When Being Heterozygous Is an Advantage",
+          "status": "needed",
+          "svg_file": "bio/Checkpoint_29_Codominance_Incomplete_Dominance_img06.svg",
+          "notes": ""
+        },
+        "07": {
+          "alt": "Epistasis   The Master Light Switch",
+          "status": "needed",
+          "svg_file": "bio/Checkpoint_29_Codominance_Incomplete_Dominance_img07.svg",
+          "notes": ""
+        },
+        "08": {
+          "alt": "Polygenic Traits   The Equalizer with Many Sliders",
+          "status": "needed",
+          "svg_file": "bio/Checkpoint_29_Codominance_Incomplete_Dominance_img08.svg",
+          "notes": ""
+        },
+        "09": {
+          "alt": "Putting It All Together   The Full Toolkit",
+          "status": "needed",
+          "svg_file": "bio/Checkpoint_29_Codominance_Incomplete_Dominance_img09.svg",
+          "notes": ""
+        }
+      }
+    },
+    "Checkpoint_30_Sex_Linked_Traits": {
+      "lesson_name": "Checkpoint 30 Sex Linked Traits",
+      "slots": {
+        "01": {
+          "alt": "X Chromosome Sex Linked Trait Biology",
+          "status": "needed",
+          "svg_file": "bio/Checkpoint_30_Sex_Linked_Traits_img01.svg",
+          "notes": ""
+        },
+        "02": {
+          "alt": "X Chromosome Sex Linked Trait Biology",
+          "status": "needed",
+          "svg_file": "bio/Checkpoint_30_Sex_Linked_Traits_img02.svg",
+          "notes": ""
+        },
+        "03": {
+          "alt": "The Unfair Inheritance   Why Males Are Affected More",
+          "status": "needed",
+          "svg_file": "bio/Checkpoint_30_Sex_Linked_Traits_img03.svg",
+          "notes": ""
+        },
+        "04": {
+          "alt": "Hemophilia   The Royal Disease",
+          "status": "needed",
+          "svg_file": "bio/Checkpoint_30_Sex_Linked_Traits_img04.svg",
+          "notes": ""
+        },
+        "05": {
+          "alt": "The Carrier Pattern   Mothers and Sons",
+          "status": "needed",
+          "svg_file": "bio/Checkpoint_30_Sex_Linked_Traits_img05.svg",
+          "notes": ""
+        },
+        "06": {
+          "alt": "Calico Cats   X-Inactivation Made Visible",
+          "status": "needed",
+          "svg_file": "bio/Checkpoint_30_Sex_Linked_Traits_img06.svg",
+          "notes": ""
+        },
+        "07": {
+          "alt": "The Y Chromosome   A Short Story",
+          "status": "needed",
+          "svg_file": "bio/Checkpoint_30_Sex_Linked_Traits_img07.svg",
+          "notes": ""
+        },
+        "08": {
+          "alt": "From Royal Families to Modern Medicine",
+          "status": "needed",
+          "svg_file": "bio/Checkpoint_30_Sex_Linked_Traits_img08.svg",
+          "notes": ""
+        }
+      }
+    },
+    "Checkpoint_31_Mutations_Gene_Duplication": {
+      "lesson_name": "Checkpoint 31 Mutations Gene Duplication",
+      "slots": {
+        "01": {
+          "alt": "Dna Mutation Genetics Biology",
+          "status": "needed",
+          "svg_file": "bio/Checkpoint_31_Mutations_Gene_Duplication_img01.svg",
+          "notes": ""
+        },
+        "02": {
+          "alt": "Chromosome Mutation Deletion Duplication",
+          "status": "needed",
+          "svg_file": "bio/Checkpoint_31_Mutations_Gene_Duplication_img02.svg",
+          "notes": ""
+        },
+        "03": {
+          "alt": "Point Mutations   One Letter, Three Fates",
+          "status": "needed",
+          "svg_file": "bio/Checkpoint_31_Mutations_Gene_Duplication_img03.svg",
+          "notes": ""
+        },
+        "04": {
+          "alt": "Chromosomal Mutations   Rearranging Whole Chapters",
+          "status": "needed",
+          "svg_file": "bio/Checkpoint_31_Mutations_Gene_Duplication_img04.svg",
+          "notes": ""
+        },
+        "05": {
+          "alt": "Gene Duplication   Evolution s Copy Machine",
+          "status": "needed",
+          "svg_file": "bio/Checkpoint_31_Mutations_Gene_Duplication_img05.svg",
+          "notes": ""
+        },
+        "06": {
+          "alt": "Mutations and Cancer   When Brakes and Accelerators Fail",
+          "status": "needed",
+          "svg_file": "bio/Checkpoint_31_Mutations_Gene_Duplication_img06.svg",
+          "notes": ""
+        },
+        "07": {
+          "alt": "The Bigger Picture   Mutations as Raw Material",
+          "status": "needed",
+          "svg_file": "bio/Checkpoint_31_Mutations_Gene_Duplication_img07.svg",
+          "notes": ""
+        }
+      }
+    },
+    "Checkpoint_32_Evidence_for_Evolution": {
+      "lesson_name": "Checkpoint 32 Evidence for Evolution",
+      "slots": {
+        "01": {
+          "alt": "Fossil Record Paleontology",
+          "status": "needed",
+          "svg_file": "bio/Checkpoint_32_Evidence_for_Evolution_img01.svg",
+          "notes": ""
+        },
+        "02": {
+          "alt": "Fossil Record Evolution Paleontology",
+          "status": "needed",
+          "svg_file": "bio/Checkpoint_32_Evidence_for_Evolution_img02.svg",
+          "notes": ""
+        },
+        "03": {
+          "alt": "Fossils   Pages from the Book of Time",
+          "status": "needed",
+          "svg_file": "bio/Checkpoint_32_Evidence_for_Evolution_img03.svg",
+          "notes": ""
+        },
+        "04": {
+          "alt": "Homologous Structures   Same Bones, Different Jobs",
+          "status": "needed",
+          "svg_file": "bio/Checkpoint_32_Evidence_for_Evolution_img04.svg",
+          "notes": ""
+        },
+        "05": {
+          "alt": "Analogous Structures   Same Job, Different Origin",
+          "status": "needed",
+          "svg_file": "bio/Checkpoint_32_Evidence_for_Evolution_img05.svg",
+          "notes": ""
+        },
+        "06": {
+          "alt": "Vestigial Structures   Leftovers from the Past",
+          "status": "needed",
+          "svg_file": "bio/Checkpoint_32_Evidence_for_Evolution_img06.svg",
+          "notes": ""
+        },
+        "07": {
+          "alt": "DNA   The Molecular Record",
+          "status": "needed",
+          "svg_file": "bio/Checkpoint_32_Evidence_for_Evolution_img07.svg",
+          "notes": ""
+        },
+        "08": {
+          "alt": "Biogeography   Why Life Is Where It Is",
+          "status": "needed",
+          "svg_file": "bio/Checkpoint_32_Evidence_for_Evolution_img08.svg",
+          "notes": ""
+        },
+        "09": {
+          "alt": "The Convergence of Evidence",
+          "status": "needed",
+          "svg_file": "bio/Checkpoint_32_Evidence_for_Evolution_img09.svg",
+          "notes": ""
+        }
+      }
+    },
+    "Checkpoint_33_Evidence_for_Evolution_DNA_Protein": {
+      "lesson_name": "Checkpoint 33 Evidence for Evolution DNA Protein",
+      "slots": {
+        "01": {
+          "alt": "Phylogenetic Tree Evolution Biology",
+          "status": "needed",
+          "svg_file": "bio/Checkpoint_33_Evidence_for_Evolution_DNA_Protein_img01.svg",
+          "notes": ""
+        },
+        "02": {
+          "alt": "Dna Sequence Comparison Species Evolution",
+          "status": "needed",
+          "svg_file": "bio/Checkpoint_33_Evidence_for_Evolution_DNA_Protein_img02.svg",
+          "notes": ""
+        },
+        "03": {
+          "alt": "Counting the Differences",
+          "status": "needed",
+          "svg_file": "bio/Checkpoint_33_Evidence_for_Evolution_DNA_Protein_img03.svg",
+          "notes": ""
+        },
+        "04": {
+          "alt": "Cytochrome c   A Protein That Tells a Story",
+          "status": "needed",
+          "svg_file": "bio/Checkpoint_33_Evidence_for_Evolution_DNA_Protein_img04.svg",
+          "notes": ""
+        },
+        "05": {
+          "alt": "The Molecular Clock   Timing Evolution",
+          "status": "needed",
+          "svg_file": "bio/Checkpoint_33_Evidence_for_Evolution_DNA_Protein_img05.svg",
+          "notes": ""
+        },
+        "06": {
+          "alt": "Pseudogenes   Shared Mistakes",
+          "status": "needed",
+          "svg_file": "bio/Checkpoint_33_Evidence_for_Evolution_DNA_Protein_img06.svg",
+          "notes": ""
+        },
+        "07": {
+          "alt": "Viral Fossils in Your DNA",
+          "status": "needed",
+          "svg_file": "bio/Checkpoint_33_Evidence_for_Evolution_DNA_Protein_img07.svg",
+          "notes": ""
+        },
+        "08": {
+          "alt": "Reading the Tree of Life",
+          "status": "needed",
+          "svg_file": "bio/Checkpoint_33_Evidence_for_Evolution_DNA_Protein_img08.svg",
+          "notes": ""
+        },
+        "09": {
+          "alt": "Why Molecular Evidence Changed Everything",
+          "status": "needed",
+          "svg_file": "bio/Checkpoint_33_Evidence_for_Evolution_DNA_Protein_img09.svg",
+          "notes": ""
+        }
+      }
+    },
+    "Checkpoint_34_Pangaea_Natural_Selection_Adaptations": {
+      "lesson_name": "Checkpoint 34 Pangaea Natural Selection Adaptations",
+      "slots": {
+        "01": {
+          "alt": "Natural Selection Adaptation Biology",
+          "status": "needed",
+          "svg_file": "bio/Checkpoint_34_Pangaea_Natural_Selection_Adaptations_img01.svg",
+          "notes": ""
+        },
+        "02": {
+          "alt": "Galapagos Finches Beak Evolution Darwin",
+          "status": "needed",
+          "svg_file": "bio/Checkpoint_34_Pangaea_Natural_Selection_Adaptations_img02.svg",
+          "notes": ""
+        },
+        "03": {
+          "alt": "The Peppered Moth   Natural Selection in Real Time",
+          "status": "needed",
+          "svg_file": "bio/Checkpoint_34_Pangaea_Natural_Selection_Adaptations_img03.svg",
+          "notes": ""
+        },
+        "04": {
+          "alt": "Antibiotic Resistance   Evolution in Hospitals",
+          "status": "needed",
+          "svg_file": "bio/Checkpoint_34_Pangaea_Natural_Selection_Adaptations_img04.svg",
+          "notes": ""
+        },
+        "05": {
+          "alt": "Three Types of Selection",
+          "status": "needed",
+          "svg_file": "bio/Checkpoint_34_Pangaea_Natural_Selection_Adaptations_img05.svg",
+          "notes": ""
+        },
+        "06": {
+          "alt": "Adaptations   The Products of Natural Selection",
+          "status": "needed",
+          "svg_file": "bio/Checkpoint_34_Pangaea_Natural_Selection_Adaptations_img06.svg",
+          "notes": ""
+        },
+        "07": {
+          "alt": "Plant Adaptations   Shaped by the Same Forces",
+          "status": "needed",
+          "svg_file": "bio/Checkpoint_34_Pangaea_Natural_Selection_Adaptations_img07.svg",
+          "notes": ""
+        },
+        "08": {
+          "alt": "Pangaea and Biogeography",
+          "status": "needed",
+          "svg_file": "bio/Checkpoint_34_Pangaea_Natural_Selection_Adaptations_img08.svg",
+          "notes": ""
+        },
+        "09": {
+          "alt": "Why  Survival of the Fittest  Is Misunderstood",
+          "status": "needed",
+          "svg_file": "bio/Checkpoint_34_Pangaea_Natural_Selection_Adaptations_img09.svg",
+          "notes": ""
+        }
+      }
+    },
+    "Checkpoint_35_Genetic_Drift_Gene_Flow_Selection_Types": {
+      "lesson_name": "Checkpoint 35 Genetic Drift Gene Flow Selection Types",
+      "slots": {
+        "01": {
+          "alt": "Genetic Drift Small Population Biology",
+          "status": "needed",
+          "svg_file": "bio/Checkpoint_35_Genetic_Drift_Gene_Flow_Selection_Types_img01.svg",
+          "notes": ""
+        },
+        "02": {
+          "alt": "Population Genetics Gene Flow Migration",
+          "status": "needed",
+          "svg_file": "bio/Checkpoint_35_Genetic_Drift_Gene_Flow_Selection_Types_img02.svg",
+          "notes": ""
+        },
+        "03": {
+          "alt": "Genetic Drift   When Chance Takes Over",
+          "status": "needed",
+          "svg_file": "bio/Checkpoint_35_Genetic_Drift_Gene_Flow_Selection_Types_img03.svg",
+          "notes": ""
+        },
+        "04": {
+          "alt": "Bottleneck Effect   Disaster Strikes",
+          "status": "needed",
+          "svg_file": "bio/Checkpoint_35_Genetic_Drift_Gene_Flow_Selection_Types_img04.svg",
+          "notes": ""
+        },
+        "05": {
+          "alt": "Founder Effect   Starting Fresh",
+          "status": "needed",
+          "svg_file": "bio/Checkpoint_35_Genetic_Drift_Gene_Flow_Selection_Types_img05.svg",
+          "notes": ""
+        },
+        "06": {
+          "alt": "Gene Flow   Mixing Populations",
+          "status": "needed",
+          "svg_file": "bio/Checkpoint_35_Genetic_Drift_Gene_Flow_Selection_Types_img06.svg",
+          "notes": ""
+        },
+        "07": {
+          "alt": "Three Flavors of Selection",
+          "status": "needed",
+          "svg_file": "bio/Checkpoint_35_Genetic_Drift_Gene_Flow_Selection_Types_img07.svg",
+          "notes": ""
+        },
+        "08": {
+          "alt": "Sexual Selection   Beauty Over Survival",
+          "status": "needed",
+          "svg_file": "bio/Checkpoint_35_Genetic_Drift_Gene_Flow_Selection_Types_img08.svg",
+          "notes": ""
+        },
+        "09": {
+          "alt": "Why Small Populations Are in Trouble",
+          "status": "needed",
+          "svg_file": "bio/Checkpoint_35_Genetic_Drift_Gene_Flow_Selection_Types_img09.svg",
+          "notes": ""
+        }
+      }
+    },
+    "Checkpoint_36_Speciation": {
+      "lesson_name": "Checkpoint 36 Speciation",
+      "slots": {
+        "01": {
+          "alt": "Geographic Isolation Species Formation",
+          "status": "needed",
+          "svg_file": "bio/Checkpoint_36_Speciation_img01.svg",
+          "notes": ""
+        },
+        "02": {
+          "alt": "Geographic Isolation Species Formation",
+          "status": "needed",
+          "svg_file": "bio/Checkpoint_36_Speciation_img02.svg",
+          "notes": ""
+        },
+        "03": {
+          "alt": "Reproductive Barriers   Keeping Species Apart",
+          "status": "needed",
+          "svg_file": "bio/Checkpoint_36_Speciation_img03.svg",
+          "notes": ""
+        },
+        "04": {
+          "alt": "Allopatric Speciation   Separated by Geography",
+          "status": "needed",
+          "svg_file": "bio/Checkpoint_36_Speciation_img04.svg",
+          "notes": ""
+        },
+        "05": {
+          "alt": "Sympatric Speciation   Same Place, New Species",
+          "status": "needed",
+          "svg_file": "bio/Checkpoint_36_Speciation_img05.svg",
+          "notes": ""
+        },
+        "06": {
+          "alt": "Adaptive Radiation   One Becomes Many",
+          "status": "needed",
+          "svg_file": "bio/Checkpoint_36_Speciation_img06.svg",
+          "notes": ""
+        },
+        "07": {
+          "alt": "Patterns of Evolution",
+          "status": "needed",
+          "svg_file": "bio/Checkpoint_36_Speciation_img07.svg",
+          "notes": ""
+        },
+        "08": {
+          "alt": "How Long Does Speciation Take?",
+          "status": "needed",
+          "svg_file": "bio/Checkpoint_36_Speciation_img08.svg",
+          "notes": ""
+        },
+        "09": {
+          "alt": "Why Speciation Matters",
+          "status": "needed",
+          "svg_file": "bio/Checkpoint_36_Speciation_img09.svg",
+          "notes": ""
+        }
+      }
+    },
+    "Checkpoint_37_Body_Systems": {
+      "lesson_name": "Checkpoint 37 Body Systems",
+      "slots": {
+        "01": {
+          "alt": "Human Body Organ Systems Anatomy",
+          "status": "needed",
+          "svg_file": "bio/Checkpoint_37_Body_Systems_img01.svg",
+          "notes": ""
+        },
+        "02": {
+          "alt": "Digestive Circulatory Nervous System Diagram",
+          "status": "needed",
+          "svg_file": "bio/Checkpoint_37_Body_Systems_img02.svg",
+          "notes": ""
+        },
+        "03": {
+          "alt": "The Respiratory System   Gas Exchange",
+          "status": "needed",
+          "svg_file": "bio/Checkpoint_37_Body_Systems_img03.svg",
+          "notes": ""
+        },
+        "04": {
+          "alt": "The Immune System   Defense Force",
+          "status": "needed",
+          "svg_file": "bio/Checkpoint_37_Body_Systems_img04.svg",
+          "notes": ""
+        },
+        "05": {
+          "alt": "The Nervous System   Rapid Communication",
+          "status": "needed",
+          "svg_file": "bio/Checkpoint_37_Body_Systems_img05.svg",
+          "notes": ""
+        },
+        "06": {
+          "alt": "The Endocrine System   Slow but Lasting",
+          "status": "needed",
+          "svg_file": "bio/Checkpoint_37_Body_Systems_img06.svg",
+          "notes": ""
+        },
+        "07": {
+          "alt": "The Excretory System   Waste Removal",
+          "status": "needed",
+          "svg_file": "bio/Checkpoint_37_Body_Systems_img07.svg",
+          "notes": ""
+        },
+        "08": {
+          "alt": "Systems Working Together",
+          "status": "needed",
+          "svg_file": "bio/Checkpoint_37_Body_Systems_img08.svg",
+          "notes": ""
+        },
+        "09": {
+          "alt": "Homeostasis   The Common Thread",
+          "status": "needed",
+          "svg_file": "bio/Checkpoint_37_Body_Systems_img09.svg",
+          "notes": ""
+        }
+      }
+    },
+    "Checkpoint_38_Homeostasis_Feedback_Loops": {
+      "lesson_name": "Checkpoint 38 Homeostasis Feedback Loops",
+      "slots": {
+        "01": {
+          "alt": "Homeostasis Feedback Loop Diagram",
+          "status": "needed",
+          "svg_file": "bio/Checkpoint_38_Homeostasis_Feedback_Loops_img01.svg",
+          "notes": ""
+        },
+        "02": {
+          "alt": "Body Temperature Regulation",
+          "status": "needed",
+          "svg_file": "bio/Checkpoint_38_Homeostasis_Feedback_Loops_img02.svg",
+          "notes": ""
+        },
+        "03": {
+          "alt": "The Three Parts of Every Feedback Loop",
+          "status": "needed",
+          "svg_file": "bio/Checkpoint_38_Homeostasis_Feedback_Loops_img03.svg",
+          "notes": ""
+        },
+        "04": {
+          "alt": "Negative Feedback   The Most Common Loop",
+          "status": "needed",
+          "svg_file": "bio/Checkpoint_38_Homeostasis_Feedback_Loops_img04.svg",
+          "notes": ""
+        },
+        "05": {
+          "alt": "Blood Sugar Regulation   Insulin and Glucagon",
+          "status": "needed",
+          "svg_file": "bio/Checkpoint_38_Homeostasis_Feedback_Loops_img05.svg",
+          "notes": ""
+        },
+        "06": {
+          "alt": "When Homeostasis Fails   Diabetes",
+          "status": "needed",
+          "svg_file": "bio/Checkpoint_38_Homeostasis_Feedback_Loops_img06.svg",
+          "notes": ""
+        },
+        "07": {
+          "alt": "Positive Feedback   Amplifying Change",
+          "status": "needed",
+          "svg_file": "bio/Checkpoint_38_Homeostasis_Feedback_Loops_img07.svg",
+          "notes": ""
+        },
+        "08": {
+          "alt": "Negative vs. Positive   Know the Difference",
+          "status": "needed",
+          "svg_file": "bio/Checkpoint_38_Homeostasis_Feedback_Loops_img08.svg",
+          "notes": ""
+        },
+        "09": {
+          "alt": "The Big Picture   Everything Connects",
+          "status": "needed",
+          "svg_file": "bio/Checkpoint_38_Homeostasis_Feedback_Loops_img09.svg",
+          "notes": ""
+        }
+      }
+    }
+  },
+  "chem": {
+    "Checkpoint_01_Atomic_Size_Trends_Reactivity": {
+      "lesson_name": "Checkpoint 01 Atomic Size Trends Reactivity",
+      "slots": {
+        "01": {
+          "alt": "Smaller Across a Row",
+          "status": "needed",
+          "svg_file": "chem/Checkpoint_01_Atomic_Size_Trends_Reactivity_img01.svg",
+          "notes": ""
+        },
+        "02": {
+          "alt": "Bigger Going Down",
+          "status": "needed",
+          "svg_file": "chem/Checkpoint_01_Atomic_Size_Trends_Reactivity_img02.svg",
+          "notes": ""
+        },
+        "03": {
+          "alt": "What Is Reactivity?",
+          "status": "needed",
+          "svg_file": "chem/Checkpoint_01_Atomic_Size_Trends_Reactivity_img03.svg",
+          "notes": ""
+        },
+        "04": {
+          "alt": "Why Metals React",
+          "status": "needed",
+          "svg_file": "chem/Checkpoint_01_Atomic_Size_Trends_Reactivity_img04.svg",
+          "notes": ""
+        },
+        "05": {
+          "alt": "The Most Reactive Metals",
+          "status": "needed",
+          "svg_file": "chem/Checkpoint_01_Atomic_Size_Trends_Reactivity_img05.svg",
+          "notes": ""
+        },
+        "06": {
+          "alt": "Putting It All Together",
+          "status": "needed",
+          "svg_file": "chem/Checkpoint_01_Atomic_Size_Trends_Reactivity_img06.svg",
+          "notes": ""
+        }
+      }
+    },
+    "Checkpoint_02_Octet_Rule_Ion_Formation": {
+      "lesson_name": "Checkpoint 02 Octet Rule Ion Formation",
+      "slots": {
+        "01": {
+          "alt": "Noble Gases",
+          "status": "needed",
+          "svg_file": "chem/Checkpoint_02_Octet_Rule_Ion_Formation_img01.svg",
+          "notes": ""
+        },
+        "02": {
+          "alt": "Metals Lose Electrons",
+          "status": "needed",
+          "svg_file": "chem/Checkpoint_02_Octet_Rule_Ion_Formation_img02.svg",
+          "notes": ""
+        },
+        "03": {
+          "alt": "Naming Ions",
+          "status": "needed",
+          "svg_file": "chem/Checkpoint_02_Octet_Rule_Ion_Formation_img03.svg",
+          "notes": ""
+        },
+        "04": {
+          "alt": "Putting It Together",
+          "status": "needed",
+          "svg_file": "chem/Checkpoint_02_Octet_Rule_Ion_Formation_img04.svg",
+          "notes": ""
+        },
+        "05": {
+          "alt": "How to Know the Charge",
+          "status": "needed",
+          "svg_file": "chem/Checkpoint_02_Octet_Rule_Ion_Formation_img05.svg",
+          "notes": ""
+        },
+        "06": {
+          "alt": "Ions in Your Life",
+          "status": "needed",
+          "svg_file": "chem/Checkpoint_02_Octet_Rule_Ion_Formation_img06.svg",
+          "notes": ""
+        }
+      }
+    },
+    "Checkpoint_03_Ionic_Covalent_Bonding": {
+      "lesson_name": "Checkpoint 03 Ionic Covalent Bonding",
+      "slots": {
+        "01": {
+          "alt": "Ionic Bonds   Giving a Gift",
+          "status": "needed",
+          "svg_file": "chem/Checkpoint_03_Ionic_Covalent_Bonding_img01.svg",
+          "notes": ""
+        },
+        "02": {
+          "alt": "Covalent Bonds   Sharing a Pizza",
+          "status": "needed",
+          "svg_file": "chem/Checkpoint_03_Ionic_Covalent_Bonding_img02.svg",
+          "notes": ""
+        },
+        "03": {
+          "alt": "How to Tell the Difference",
+          "status": "needed",
+          "svg_file": "chem/Checkpoint_03_Ionic_Covalent_Bonding_img03.svg",
+          "notes": ""
+        },
+        "04": {
+          "alt": "Properties   They Act Different",
+          "status": "needed",
+          "svg_file": "chem/Checkpoint_03_Ionic_Covalent_Bonding_img04.svg",
+          "notes": ""
+        },
+        "05": {
+          "alt": "Lewis Dot Structures",
+          "status": "needed",
+          "svg_file": "chem/Checkpoint_03_Ionic_Covalent_Bonding_img05.svg",
+          "notes": ""
+        },
+        "06": {
+          "alt": "Bonds in Your Life",
+          "status": "needed",
+          "svg_file": "chem/Checkpoint_03_Ionic_Covalent_Bonding_img06.svg",
+          "notes": ""
+        }
+      }
+    },
+    "Checkpoint_04_Lewis_Structures_Molecular_Shapes": {
+      "lesson_name": "Checkpoint 04 Lewis Structures Molecular Shapes",
+      "slots": {
+        "01": {
+          "alt": "Bonding Pairs and Lone Pairs",
+          "status": "needed",
+          "svg_file": "chem/Checkpoint_04_Lewis_Structures_Molecular_Shapes_img01.svg",
+          "notes": ""
+        },
+        "02": {
+          "alt": "How to Draw a Lewis Structure",
+          "status": "needed",
+          "svg_file": "chem/Checkpoint_04_Lewis_Structures_Molecular_Shapes_img02.svg",
+          "notes": ""
+        },
+        "03": {
+          "alt": "VSEPR Theory   Balloons Explain Shapes",
+          "status": "needed",
+          "svg_file": "chem/Checkpoint_04_Lewis_Structures_Molecular_Shapes_img03.svg",
+          "notes": ""
+        },
+        "04": {
+          "alt": "Lone Pairs Change the Shape",
+          "status": "needed",
+          "svg_file": "chem/Checkpoint_04_Lewis_Structures_Molecular_Shapes_img04.svg",
+          "notes": ""
+        },
+        "05": {
+          "alt": "The 5 Shapes You Need to Know",
+          "status": "needed",
+          "svg_file": "chem/Checkpoint_04_Lewis_Structures_Molecular_Shapes_img05.svg",
+          "notes": ""
+        },
+        "06": {
+          "alt": "Why Shape Matters",
+          "status": "needed",
+          "svg_file": "chem/Checkpoint_04_Lewis_Structures_Molecular_Shapes_img06.svg",
+          "notes": ""
+        }
+      }
+    },
+    "Checkpoint_05_Electronegativity_Polarity": {
+      "lesson_name": "Checkpoint 05 Electronegativity Polarity",
+      "slots": {
+        "01": {
+          "alt": "EN on the Periodic Table",
+          "status": "needed",
+          "svg_file": "chem/Checkpoint_05_Electronegativity_Polarity_img01.svg",
+          "notes": ""
+        },
+        "02": {
+          "alt": "Three Types of Bonds",
+          "status": "needed",
+          "svg_file": "chem/Checkpoint_05_Electronegativity_Polarity_img02.svg",
+          "notes": ""
+        },
+        "03": {
+          "alt": "What Makes a Polar Bond",
+          "status": "needed",
+          "svg_file": "chem/Checkpoint_05_Electronegativity_Polarity_img03.svg",
+          "notes": ""
+        },
+        "04": {
+          "alt": "Polar Bonds vs. Polar Molecules",
+          "status": "needed",
+          "svg_file": "chem/Checkpoint_05_Electronegativity_Polarity_img04.svg",
+          "notes": ""
+        },
+        "05": {
+          "alt": "Like Dissolves Like",
+          "status": "needed",
+          "svg_file": "chem/Checkpoint_05_Electronegativity_Polarity_img05.svg",
+          "notes": ""
+        },
+        "06": {
+          "alt": "Polarity in Real Life",
+          "status": "needed",
+          "svg_file": "chem/Checkpoint_05_Electronegativity_Polarity_img06.svg",
+          "notes": ""
+        }
+      }
+    },
+    "Checkpoint_06_Ionic_Formulas_Naming": {
+      "lesson_name": "Checkpoint 06 Ionic Formulas Naming",
+      "slots": {
+        "01": {
+          "alt": "The Criss-Cross Method",
+          "status": "needed",
+          "svg_file": "chem/Checkpoint_06_Ionic_Formulas_Naming_img01.svg",
+          "notes": ""
+        },
+        "02": {
+          "alt": "Binary Compounds",
+          "status": "needed",
+          "svg_file": "chem/Checkpoint_06_Ionic_Formulas_Naming_img02.svg",
+          "notes": ""
+        },
+        "03": {
+          "alt": "How to Name Ionic Compounds",
+          "status": "needed",
+          "svg_file": "chem/Checkpoint_06_Ionic_Formulas_Naming_img03.svg",
+          "notes": ""
+        },
+        "04": {
+          "alt": "The -ide Ending",
+          "status": "needed",
+          "svg_file": "chem/Checkpoint_06_Ionic_Formulas_Naming_img04.svg",
+          "notes": ""
+        },
+        "05": {
+          "alt": "Going Both Directions",
+          "status": "needed",
+          "svg_file": "chem/Checkpoint_06_Ionic_Formulas_Naming_img05.svg",
+          "notes": ""
+        },
+        "06": {
+          "alt": "Common Ionic Compounds in Daily Life",
+          "status": "needed",
+          "svg_file": "chem/Checkpoint_06_Ionic_Formulas_Naming_img06.svg",
+          "notes": ""
+        },
+        "07": {
+          "alt": "What Comes Next",
+          "status": "needed",
+          "svg_file": "chem/Checkpoint_06_Ionic_Formulas_Naming_img07.svg",
+          "notes": ""
+        }
+      }
+    },
+    "Checkpoint_07_Polyatomic_Ions_Compounds": {
+      "lesson_name": "Checkpoint 07 Polyatomic Ions Compounds",
+      "slots": {
+        "01": {
+          "alt": "The Most Common Polyatomic Ions",
+          "status": "needed",
+          "svg_file": "chem/Checkpoint_07_Polyatomic_Ions_Compounds_img01.svg",
+          "notes": ""
+        },
+        "02": {
+          "alt": "Writing Formulas   Same Method, One New Rule",
+          "status": "needed",
+          "svg_file": "chem/Checkpoint_07_Polyatomic_Ions_Compounds_img02.svg",
+          "notes": ""
+        },
+        "03": {
+          "alt": "Naming   Even Easier Than Before",
+          "status": "needed",
+          "svg_file": "chem/Checkpoint_07_Polyatomic_Ions_Compounds_img03.svg",
+          "notes": ""
+        },
+        "04": {
+          "alt": "A Special Case   Ammonium",
+          "status": "needed",
+          "svg_file": "chem/Checkpoint_07_Polyatomic_Ions_Compounds_img04.svg",
+          "notes": ""
+        },
+        "05": {
+          "alt": "Common Mistakes to Avoid",
+          "status": "needed",
+          "svg_file": "chem/Checkpoint_07_Polyatomic_Ions_Compounds_img05.svg",
+          "notes": ""
+        },
+        "06": {
+          "alt": "Polyatomic Compounds in Daily Life",
+          "status": "needed",
+          "svg_file": "chem/Checkpoint_07_Polyatomic_Ions_Compounds_img06.svg",
+          "notes": ""
+        },
+        "07": {
+          "alt": "What Comes Next",
+          "status": "needed",
+          "svg_file": "chem/Checkpoint_07_Polyatomic_Ions_Compounds_img07.svg",
+          "notes": ""
+        }
+      }
+    },
+    "Checkpoint_08_Covalent_Naming_Acids": {
+      "lesson_name": "Checkpoint 08 Covalent Naming Acids",
+      "slots": {
+        "01": {
+          "alt": "The Prefix System",
+          "status": "needed",
+          "svg_file": "chem/Checkpoint_08_Covalent_Naming_Acids_img01.svg",
+          "notes": ""
+        },
+        "02": {
+          "alt": "What Makes Something an Acid?",
+          "status": "needed",
+          "svg_file": "chem/Checkpoint_08_Covalent_Naming_Acids_img02.svg",
+          "notes": ""
+        },
+        "03": {
+          "alt": "Two Types of Acids",
+          "status": "needed",
+          "svg_file": "chem/Checkpoint_08_Covalent_Naming_Acids_img03.svg",
+          "notes": ""
+        },
+        "04": {
+          "alt": "Naming Binary Acids",
+          "status": "needed",
+          "svg_file": "chem/Checkpoint_08_Covalent_Naming_Acids_img04.svg",
+          "notes": ""
+        },
+        "05": {
+          "alt": "Naming Oxyacids",
+          "status": "needed",
+          "svg_file": "chem/Checkpoint_08_Covalent_Naming_Acids_img05.svg",
+          "notes": ""
+        },
+        "06": {
+          "alt": "Putting It All Together",
+          "status": "needed",
+          "svg_file": "chem/Checkpoint_08_Covalent_Naming_Acids_img06.svg",
+          "notes": ""
+        }
+      }
+    },
+    "Checkpoint_09_Evidence_of_Reactions_Writing_Equations": {
+      "lesson_name": "Checkpoint 09 Evidence of Reactions Writing Equations",
+      "slots": {
+        "01": {
+          "alt": "How Do You Know a Reaction Happened?",
+          "status": "needed",
+          "svg_file": "chem/Checkpoint_09_Evidence_of_Reactions_Writing_Equations_img01.svg",
+          "notes": ""
+        },
+        "02": {
+          "alt": "Chemical Change vs. Physical Change",
+          "status": "needed",
+          "svg_file": "chem/Checkpoint_09_Evidence_of_Reactions_Writing_Equations_img02.svg",
+          "notes": ""
+        },
+        "03": {
+          "alt": "Writing Word Equations",
+          "status": "needed",
+          "svg_file": "chem/Checkpoint_09_Evidence_of_Reactions_Writing_Equations_img03.svg",
+          "notes": ""
+        },
+        "04": {
+          "alt": "Writing Symbol Equations",
+          "status": "needed",
+          "svg_file": "chem/Checkpoint_09_Evidence_of_Reactions_Writing_Equations_img04.svg",
+          "notes": ""
+        },
+        "05": {
+          "alt": "Conservation of Mass   Nothing Is Lost",
+          "status": "needed",
+          "svg_file": "chem/Checkpoint_09_Evidence_of_Reactions_Writing_Equations_img05.svg",
+          "notes": ""
+        },
+        "06": {
+          "alt": "Real Life Reactions All Around You",
+          "status": "needed",
+          "svg_file": "chem/Checkpoint_09_Evidence_of_Reactions_Writing_Equations_img06.svg",
+          "notes": ""
+        },
+        "07": {
+          "alt": "What Comes Next?",
+          "status": "needed",
+          "svg_file": "chem/Checkpoint_09_Evidence_of_Reactions_Writing_Equations_img07.svg",
+          "notes": ""
+        }
+      }
+    },
+    "Checkpoint_10_Balancing_Chemical_Equations": {
+      "lesson_name": "Checkpoint 10 Balancing Chemical Equations",
+      "slots": {
+        "01": {
+          "alt": "What Does  Balanced  Mean?",
+          "status": "needed",
+          "svg_file": "chem/Checkpoint_10_Balancing_Chemical_Equations_img01.svg",
+          "notes": ""
+        },
+        "02": {
+          "alt": "Coefficients   Your Balancing Tool",
+          "status": "needed",
+          "svg_file": "chem/Checkpoint_10_Balancing_Chemical_Equations_img02.svg",
+          "notes": ""
+        },
+        "03": {
+          "alt": "The 4-Step Method",
+          "status": "needed",
+          "svg_file": "chem/Checkpoint_10_Balancing_Chemical_Equations_img03.svg",
+          "notes": ""
+        },
+        "04": {
+          "alt": "A Common Mistake",
+          "status": "needed",
+          "svg_file": "chem/Checkpoint_10_Balancing_Chemical_Equations_img04.svg",
+          "notes": ""
+        },
+        "05": {
+          "alt": "Why This Matters in Real Life",
+          "status": "needed",
+          "svg_file": "chem/Checkpoint_10_Balancing_Chemical_Equations_img05.svg",
+          "notes": ""
+        },
+        "06": {
+          "alt": "Practice Makes Perfect",
+          "status": "needed",
+          "svg_file": "chem/Checkpoint_10_Balancing_Chemical_Equations_img06.svg",
+          "notes": ""
+        },
+        "07": {
+          "alt": "What Comes Next?",
+          "status": "needed",
+          "svg_file": "chem/Checkpoint_10_Balancing_Chemical_Equations_img07.svg",
+          "notes": ""
+        }
+      }
+    },
+    "Checkpoint_11_Synthesis_Decomposition_Replacement": {
+      "lesson_name": "Checkpoint 11 Synthesis Decomposition Replacement",
+      "slots": {
+        "01": {
+          "alt": "Synthesis   Building Something New",
+          "status": "needed",
+          "svg_file": "chem/Checkpoint_11_Synthesis_Decomposition_Replacement_img01.svg",
+          "notes": ""
+        },
+        "02": {
+          "alt": "Decomposition   Breaking Things Apart",
+          "status": "needed",
+          "svg_file": "chem/Checkpoint_11_Synthesis_Decomposition_Replacement_img02.svg",
+          "notes": ""
+        },
+        "03": {
+          "alt": "Single Replacement   The Bully Reaction",
+          "status": "needed",
+          "svg_file": "chem/Checkpoint_11_Synthesis_Decomposition_Replacement_img03.svg",
+          "notes": ""
+        },
+        "04": {
+          "alt": "Double Replacement   The Partner Swap",
+          "status": "needed",
+          "svg_file": "chem/Checkpoint_11_Synthesis_Decomposition_Replacement_img04.svg",
+          "notes": ""
+        },
+        "05": {
+          "alt": "How to Tell the Types Apart",
+          "status": "needed",
+          "svg_file": "chem/Checkpoint_11_Synthesis_Decomposition_Replacement_img05.svg",
+          "notes": ""
+        },
+        "06": {
+          "alt": "Real Reactions You Already Know",
+          "status": "needed",
+          "svg_file": "chem/Checkpoint_11_Synthesis_Decomposition_Replacement_img06.svg",
+          "notes": ""
+        }
+      }
+    },
+    "Checkpoint_12_Combustion_Energy_Reaction_Rate": {
+      "lesson_name": "Checkpoint 12 Combustion Energy Reaction Rate",
+      "slots": {
+        "01": {
+          "alt": "Complete vs Incomplete Combustion",
+          "status": "needed",
+          "svg_file": "chem/Checkpoint_12_Combustion_Energy_Reaction_Rate_img01.svg",
+          "notes": ""
+        },
+        "02": {
+          "alt": "Exothermic   Energy Out",
+          "status": "needed",
+          "svg_file": "chem/Checkpoint_12_Combustion_Energy_Reaction_Rate_img02.svg",
+          "notes": ""
+        },
+        "03": {
+          "alt": "Endothermic   Energy In",
+          "status": "needed",
+          "svg_file": "chem/Checkpoint_12_Combustion_Energy_Reaction_Rate_img03.svg",
+          "notes": ""
+        },
+        "04": {
+          "alt": "How Fast Do Reactions Go?",
+          "status": "needed",
+          "svg_file": "chem/Checkpoint_12_Combustion_Energy_Reaction_Rate_img04.svg",
+          "notes": ""
+        },
+        "05": {
+          "alt": "Collision Theory   Bumper Cars",
+          "status": "needed",
+          "svg_file": "chem/Checkpoint_12_Combustion_Energy_Reaction_Rate_img05.svg",
+          "notes": ""
+        },
+        "06": {
+          "alt": "The 5 Factors",
+          "status": "needed",
+          "svg_file": "chem/Checkpoint_12_Combustion_Energy_Reaction_Rate_img06.svg",
+          "notes": ""
+        },
+        "07": {
+          "alt": "Putting It All Together",
+          "status": "needed",
+          "svg_file": "chem/Checkpoint_12_Combustion_Energy_Reaction_Rate_img07.svg",
+          "notes": ""
+        }
+      }
+    },
+    "Checkpoint_13_The_Mole_Concept": {
+      "lesson_name": "Checkpoint 13 The Mole Concept",
+      "slots": {
+        "01": {
+          "alt": "How Big Is 6.02 \u00d7 10\u00b2\u00b3?",
+          "status": "needed",
+          "svg_file": "chem/Checkpoint_13_The_Mole_Concept_img01.svg",
+          "notes": ""
+        },
+        "02": {
+          "alt": "Molar Mass   Your Periodic Table Is a Price List",
+          "status": "needed",
+          "svg_file": "chem/Checkpoint_13_The_Mole_Concept_img02.svg",
+          "notes": ""
+        },
+        "03": {
+          "alt": "Molar Mass of Compounds   The Grocery Receipt",
+          "status": "needed",
+          "svg_file": "chem/Checkpoint_13_The_Mole_Concept_img03.svg",
+          "notes": ""
+        },
+        "04": {
+          "alt": "The Mole Road Map",
+          "status": "needed",
+          "svg_file": "chem/Checkpoint_13_The_Mole_Concept_img04.svg",
+          "notes": ""
+        },
+        "05": {
+          "alt": "Why This Matters",
+          "status": "needed",
+          "svg_file": "chem/Checkpoint_13_The_Mole_Concept_img05.svg",
+          "notes": ""
+        }
+      }
+    },
+    "Checkpoint_14_Mole_Conversions": {
+      "lesson_name": "Checkpoint 14 Mole Conversions",
+      "slots": {
+        "01": {
+          "alt": "Moles and Particles",
+          "status": "needed",
+          "svg_file": "chem/Checkpoint_14_Mole_Conversions_img01.svg",
+          "notes": ""
+        },
+        "02": {
+          "alt": "Moles and Grams",
+          "status": "needed",
+          "svg_file": "chem/Checkpoint_14_Mole_Conversions_img02.svg",
+          "notes": ""
+        },
+        "03": {
+          "alt": "The Mole Road Map",
+          "status": "needed",
+          "svg_file": "chem/Checkpoint_14_Mole_Conversions_img03.svg",
+          "notes": ""
+        },
+        "04": {
+          "alt": "Multi-Step Conversions",
+          "status": "needed",
+          "svg_file": "chem/Checkpoint_14_Mole_Conversions_img04.svg",
+          "notes": ""
+        },
+        "05": {
+          "alt": "How to Check Your Answer",
+          "status": "needed",
+          "svg_file": "chem/Checkpoint_14_Mole_Conversions_img05.svg",
+          "notes": ""
+        },
+        "06": {
+          "alt": "Why This Matters",
+          "status": "needed",
+          "svg_file": "chem/Checkpoint_14_Mole_Conversions_img06.svg",
+          "notes": ""
+        }
+      }
+    },
+    "Checkpoint_15_Mole_Ratios_Stoichiometry": {
+      "lesson_name": "Checkpoint 15 Mole Ratios Stoichiometry",
+      "slots": {
+        "01": {
+          "alt": "Where Do Mole Ratios Come From?",
+          "status": "needed",
+          "svg_file": "chem/Checkpoint_15_Mole_Ratios_Stoichiometry_img01.svg",
+          "notes": ""
+        },
+        "02": {
+          "alt": "Writing Mole Ratios as Fractions",
+          "status": "needed",
+          "svg_file": "chem/Checkpoint_15_Mole_Ratios_Stoichiometry_img02.svg",
+          "notes": ""
+        },
+        "03": {
+          "alt": "What Do Coefficients Really Mean?",
+          "status": "needed",
+          "svg_file": "chem/Checkpoint_15_Mole_Ratios_Stoichiometry_img03.svg",
+          "notes": ""
+        },
+        "04": {
+          "alt": "The 3 Steps of Stoichiometry",
+          "status": "needed",
+          "svg_file": "chem/Checkpoint_15_Mole_Ratios_Stoichiometry_img04.svg",
+          "notes": ""
+        },
+        "05": {
+          "alt": "A Worked Example",
+          "status": "needed",
+          "svg_file": "chem/Checkpoint_15_Mole_Ratios_Stoichiometry_img05.svg",
+          "notes": ""
+        },
+        "06": {
+          "alt": "Why Does This Matter?",
+          "status": "needed",
+          "svg_file": "chem/Checkpoint_15_Mole_Ratios_Stoichiometry_img06.svg",
+          "notes": ""
+        }
+      }
+    },
+    "Checkpoint_16_Mass_to_Mass_Stoichiometry": {
+      "lesson_name": "Checkpoint 16 Mass to Mass Stoichiometry",
+      "slots": {
+        "01": {
+          "alt": "The Road Map   3 Steps, 2 Tools",
+          "status": "needed",
+          "svg_file": "chem/Checkpoint_16_Mass_to_Mass_Stoichiometry_img01.svg",
+          "notes": ""
+        },
+        "02": {
+          "alt": "A Real Example   The Airbag",
+          "status": "needed",
+          "svg_file": "chem/Checkpoint_16_Mass_to_Mass_Stoichiometry_img02.svg",
+          "notes": ""
+        },
+        "03": {
+          "alt": "Common Mistakes and How to Avoid Them",
+          "status": "needed",
+          "svg_file": "chem/Checkpoint_16_Mass_to_Mass_Stoichiometry_img03.svg",
+          "notes": ""
+        },
+        "04": {
+          "alt": "The Big Picture   Units 13-16 Together",
+          "status": "needed",
+          "svg_file": "chem/Checkpoint_16_Mass_to_Mass_Stoichiometry_img04.svg",
+          "notes": ""
+        }
+      }
+    },
+    "Checkpoint_17_Limiting_Reactants_Percent_Yield": {
+      "lesson_name": "Checkpoint 17 Limiting Reactants Percent Yield",
+      "slots": {
+        "01": {
+          "alt": "How to Find the Limiting Reactant",
+          "status": "needed",
+          "svg_file": "chem/Checkpoint_17_Limiting_Reactants_Percent_Yield_img01.svg",
+          "notes": ""
+        },
+        "02": {
+          "alt": "Using the Limiting Reactant",
+          "status": "needed",
+          "svg_file": "chem/Checkpoint_17_Limiting_Reactants_Percent_Yield_img02.svg",
+          "notes": ""
+        },
+        "03": {
+          "alt": "What Is Percent Yield?",
+          "status": "needed",
+          "svg_file": "chem/Checkpoint_17_Limiting_Reactants_Percent_Yield_img03.svg",
+          "notes": ""
+        },
+        "04": {
+          "alt": "Why Is Actual Yield Less?",
+          "status": "needed",
+          "svg_file": "chem/Checkpoint_17_Limiting_Reactants_Percent_Yield_img04.svg",
+          "notes": ""
+        },
+        "05": {
+          "alt": "Putting It All Together",
+          "status": "needed",
+          "svg_file": "chem/Checkpoint_17_Limiting_Reactants_Percent_Yield_img05.svg",
+          "notes": ""
+        }
+      }
+    },
+    "Checkpoint_18_Gas_Properties_KMT_Pressure": {
+      "lesson_name": "Checkpoint 18 Gas Properties KMT Pressure",
+      "slots": {
+        "01": {
+          "alt": "Kinetic Molecular Theory (KMT",
+          "status": "needed",
+          "svg_file": "chem/Checkpoint_18_Gas_Properties_KMT_Pressure_img01.svg",
+          "notes": ""
+        },
+        "02": {
+          "alt": "What Is Pressure?",
+          "status": "needed",
+          "svg_file": "chem/Checkpoint_18_Gas_Properties_KMT_Pressure_img02.svg",
+          "notes": ""
+        },
+        "03": {
+          "alt": "Measuring Pressure",
+          "status": "needed",
+          "svg_file": "chem/Checkpoint_18_Gas_Properties_KMT_Pressure_img03.svg",
+          "notes": ""
+        },
+        "04": {
+          "alt": "What Changes Pressure?",
+          "status": "needed",
+          "svg_file": "chem/Checkpoint_18_Gas_Properties_KMT_Pressure_img04.svg",
+          "notes": ""
+        },
+        "05": {
+          "alt": "Temperature and Kelvin",
+          "status": "needed",
+          "svg_file": "chem/Checkpoint_18_Gas_Properties_KMT_Pressure_img05.svg",
+          "notes": ""
+        }
+      }
+    },
+    "Checkpoint_19_Boyles_Charless_Gay_Lussacs_Laws": {
+      "lesson_name": "Checkpoint 19 Boyles Charless Gay Lussacs Laws",
+      "slots": {
+        "01": {
+          "alt": "Boyle",
+          "status": "needed",
+          "svg_file": "chem/Checkpoint_19_Boyles_Charless_Gay_Lussacs_Laws_img01.svg",
+          "notes": ""
+        },
+        "02": {
+          "alt": "Charles",
+          "status": "needed",
+          "svg_file": "chem/Checkpoint_19_Boyles_Charless_Gay_Lussacs_Laws_img02.svg",
+          "notes": ""
+        },
+        "03": {
+          "alt": "Gay-Lussac",
+          "status": "needed",
+          "svg_file": "chem/Checkpoint_19_Boyles_Charless_Gay_Lussacs_Laws_img03.svg",
+          "notes": ""
+        },
+        "04": {
+          "alt": "How to Choose the Right Law",
+          "status": "needed",
+          "svg_file": "chem/Checkpoint_19_Boyles_Charless_Gay_Lussacs_Laws_img04.svg",
+          "notes": ""
+        }
+      }
+    },
+    "Checkpoint_21_Solutions_Formation_Solubility": {
+      "lesson_name": "Checkpoint 21 Solutions Formation Solubility",
+      "slots": {
+        "01": {
+          "alt": "How Do Solutions Form?",
+          "status": "needed",
+          "svg_file": "chem/Checkpoint_21_Solutions_Formation_Solubility_img01.svg",
+          "notes": ""
+        },
+        "02": {
+          "alt": "How Much Can Dissolve?",
+          "status": "needed",
+          "svg_file": "chem/Checkpoint_21_Solutions_Formation_Solubility_img02.svg",
+          "notes": ""
+        },
+        "03": {
+          "alt": "Temperature and Pressure Change Solubility",
+          "status": "needed",
+          "svg_file": "chem/Checkpoint_21_Solutions_Formation_Solubility_img03.svg",
+          "notes": ""
+        },
+        "04": {
+          "alt": "The Tyndall Effect",
+          "status": "needed",
+          "svg_file": "chem/Checkpoint_21_Solutions_Formation_Solubility_img04.svg",
+          "notes": ""
+        }
+      }
+    },
+    "Checkpoint_22_Molarity_Dilution_Colligative_Properties": {
+      "lesson_name": "Checkpoint 22 Molarity Dilution Colligative Properties",
+      "slots": {
+        "01": {
+          "alt": "Dilution",
+          "status": "needed",
+          "svg_file": "chem/Checkpoint_22_Molarity_Dilution_Colligative_Properties_img01.svg",
+          "notes": ""
+        },
+        "02": {
+          "alt": "Boiling Point and Freezing Point",
+          "status": "needed",
+          "svg_file": "chem/Checkpoint_22_Molarity_Dilution_Colligative_Properties_img02.svg",
+          "notes": ""
+        },
+        "03": {
+          "alt": "Solution Stoichiometry",
+          "status": "needed",
+          "svg_file": "chem/Checkpoint_22_Molarity_Dilution_Colligative_Properties_img03.svg",
+          "notes": ""
+        }
+      }
+    },
+    "Checkpoint_23_Acids_Bases_Properties_pH_Scale": {
+      "lesson_name": "Checkpoint 23 Acids Bases Properties pH Scale",
+      "slots": {
+        "01": {
+          "alt": "What Are Bases?",
+          "status": "needed",
+          "svg_file": "chem/Checkpoint_23_Acids_Bases_Properties_pH_Scale_img01.svg",
+          "notes": ""
+        },
+        "02": {
+          "alt": "What Happens Inside the Water?",
+          "status": "needed",
+          "svg_file": "chem/Checkpoint_23_Acids_Bases_Properties_pH_Scale_img02.svg",
+          "notes": ""
+        },
+        "03": {
+          "alt": "A Bigger Definition",
+          "status": "needed",
+          "svg_file": "chem/Checkpoint_23_Acids_Bases_Properties_pH_Scale_img03.svg",
+          "notes": ""
+        },
+        "04": {
+          "alt": "The pH Scale",
+          "status": "needed",
+          "svg_file": "chem/Checkpoint_23_Acids_Bases_Properties_pH_Scale_img04.svg",
+          "notes": ""
+        },
+        "05": {
+          "alt": "Why Each pH Step Is a Big Deal",
+          "status": "needed",
+          "svg_file": "chem/Checkpoint_23_Acids_Bases_Properties_pH_Scale_img05.svg",
+          "notes": ""
+        },
+        "06": {
+          "alt": "Strong vs. Weak",
+          "status": "needed",
+          "svg_file": "chem/Checkpoint_23_Acids_Bases_Properties_pH_Scale_img06.svg",
+          "notes": ""
+        }
+      }
+    },
+    "Checkpoint_24_pH_Math_Strong_Weak_Acids_Neutralization": {
+      "lesson_name": "Checkpoint 24 pH Math Strong Weak Acids Neutralization",
+      "slots": {
+        "01": {
+          "alt": "What Is pOH?",
+          "status": "needed",
+          "svg_file": "chem/Checkpoint_24_pH_Math_Strong_Weak_Acids_Neutralization_img01.svg",
+          "notes": ""
+        },
+        "02": {
+          "alt": "Strong vs. Weak",
+          "status": "needed",
+          "svg_file": "chem/Checkpoint_24_pH_Math_Strong_Weak_Acids_Neutralization_img02.svg",
+          "notes": ""
+        },
+        "03": {
+          "alt": "The 6 Strong Acids",
+          "status": "needed",
+          "svg_file": "chem/Checkpoint_24_pH_Math_Strong_Weak_Acids_Neutralization_img03.svg",
+          "notes": ""
+        },
+        "04": {
+          "alt": "What Is Neutralization?",
+          "status": "needed",
+          "svg_file": "chem/Checkpoint_24_pH_Math_Strong_Weak_Acids_Neutralization_img04.svg",
+          "notes": ""
+        },
+        "05": {
+          "alt": "Neutralization in Real Life",
+          "status": "needed",
+          "svg_file": "chem/Checkpoint_24_pH_Math_Strong_Weak_Acids_Neutralization_img05.svg",
+          "notes": ""
+        },
+        "06": {
+          "alt": "How to Write a Neutralization Reaction",
+          "status": "needed",
+          "svg_file": "chem/Checkpoint_24_pH_Math_Strong_Weak_Acids_Neutralization_img06.svg",
+          "notes": ""
+        }
+      }
+    },
+    "Checkpoint_25_Titration_Buffers_Acids_Everyday_Life": {
+      "lesson_name": "Checkpoint 25 Titration Buffers Acids Everyday Life",
+      "slots": {
+        "01": {
+          "alt": "How Titration Works",
+          "status": "needed",
+          "svg_file": "chem/Checkpoint_25_Titration_Buffers_Acids_Everyday_Life_img01.svg",
+          "notes": ""
+        },
+        "02": {
+          "alt": "The Titration Formula",
+          "status": "needed",
+          "svg_file": "chem/Checkpoint_25_Titration_Buffers_Acids_Everyday_Life_img02.svg",
+          "notes": ""
+        },
+        "03": {
+          "alt": "What Are Buffers?",
+          "status": "needed",
+          "svg_file": "chem/Checkpoint_25_Titration_Buffers_Acids_Everyday_Life_img03.svg",
+          "notes": ""
+        },
+        "04": {
+          "alt": "The Blood Buffer System",
+          "status": "needed",
+          "svg_file": "chem/Checkpoint_25_Titration_Buffers_Acids_Everyday_Life_img04.svg",
+          "notes": ""
+        },
+        "05": {
+          "alt": "Acids and Bases in Everyday Life",
+          "status": "needed",
+          "svg_file": "chem/Checkpoint_25_Titration_Buffers_Acids_Everyday_Life_img05.svg",
+          "notes": ""
+        }
+      }
+    },
+    "Checkpoint_26_Thermochemistry": {
+      "lesson_name": "Checkpoint 26 Thermochemistry",
+      "slots": {
+        "01": {
+          "alt": "How Heat Moves   Conduction, Convection, Radiation",
+          "status": "needed",
+          "svg_file": "chem/Checkpoint_26_Thermochemistry_img01.svg",
+          "notes": ""
+        },
+        "02": {
+          "alt": "Exothermic and Endothermic Reactions",
+          "status": "needed",
+          "svg_file": "chem/Checkpoint_26_Thermochemistry_img02.svg",
+          "notes": ""
+        },
+        "03": {
+          "alt": "Enthalpy   Measuring Reaction Energy",
+          "status": "needed",
+          "svg_file": "chem/Checkpoint_26_Thermochemistry_img03.svg",
+          "notes": ""
+        },
+        "04": {
+          "alt": "Calorimetry   Measuring Heat",
+          "status": "needed",
+          "svg_file": "chem/Checkpoint_26_Thermochemistry_img04.svg",
+          "notes": ""
+        },
+        "05": {
+          "alt": "Hess s Law   Energy Takes the Same Path",
+          "status": "needed",
+          "svg_file": "chem/Checkpoint_26_Thermochemistry_img05.svg",
+          "notes": ""
+        },
+        "06": {
+          "alt": "Heating and Cooling Curves",
+          "status": "needed",
+          "svg_file": "chem/Checkpoint_26_Thermochemistry_img06.svg",
+          "notes": ""
+        },
+        "07": {
+          "alt": "Energy in Your Life",
+          "status": "needed",
+          "svg_file": "chem/Checkpoint_26_Thermochemistry_img07.svg",
+          "notes": ""
+        }
+      }
+    }
+  },
+  "envbio": {
+    "Checkpoint_01_Photosynthesis": {
+      "lesson_name": "Checkpoint 01 Photosynthesis",
+      "slots": {
+        "01": {
+          "alt": "Inside the Chloroplast   The Factory",
+          "status": "needed",
+          "svg_file": "envbio/Checkpoint_01_Photosynthesis_img01.svg",
+          "notes": ""
+        },
+        "02": {
+          "alt": "Light Reactions   Capturing Energy",
+          "status": "needed",
+          "svg_file": "envbio/Checkpoint_01_Photosynthesis_img02.svg",
+          "notes": ""
+        },
+        "03": {
+          "alt": "The Calvin Cycle   Building Sugar",
+          "status": "needed",
+          "svg_file": "envbio/Checkpoint_01_Photosynthesis_img03.svg",
+          "notes": ""
+        },
+        "04": {
+          "alt": "Photosynthesis as a System   Inputs, Outputs, Stocks, and Flows",
+          "status": "needed",
+          "svg_file": "envbio/Checkpoint_01_Photosynthesis_img04.svg",
+          "notes": ""
+        },
+        "05": {
+          "alt": "The Carbon-Oxygen Cycle   A Balancing Act",
+          "status": "needed",
+          "svg_file": "envbio/Checkpoint_01_Photosynthesis_img05.svg",
+          "notes": ""
+        },
+        "06": {
+          "alt": "When Photosynthesis Slows Down",
+          "status": "needed",
+          "svg_file": "envbio/Checkpoint_01_Photosynthesis_img06.svg",
+          "notes": ""
+        }
+      }
+    },
+    "Checkpoint_02_Food_Chains_Webs_Energy_Pyramids": {
+      "lesson_name": "Checkpoint 02 Food Chains Webs Energy Pyramids",
+      "slots": {
+        "01": {
+          "alt": "Trophic Levels   Who Eats Whom",
+          "status": "needed",
+          "svg_file": "envbio/Checkpoint_02_Food_Chains_Webs_Energy_Pyramids_img01.svg",
+          "notes": ""
+        },
+        "02": {
+          "alt": "The 10% Rule   Why Energy Disappears",
+          "status": "needed",
+          "svg_file": "envbio/Checkpoint_02_Food_Chains_Webs_Energy_Pyramids_img02.svg",
+          "notes": ""
+        },
+        "03": {
+          "alt": "Food Chains vs. Food Webs   Reality Is Messy",
+          "status": "needed",
+          "svg_file": "envbio/Checkpoint_02_Food_Chains_Webs_Energy_Pyramids_img03.svg",
+          "notes": ""
+        },
+        "04": {
+          "alt": "Energy Pyramids   Seeing the Pattern",
+          "status": "needed",
+          "svg_file": "envbio/Checkpoint_02_Food_Chains_Webs_Energy_Pyramids_img04.svg",
+          "notes": ""
+        },
+        "05": {
+          "alt": "Keystone Species   Small Players, Huge Impact",
+          "status": "needed",
+          "svg_file": "envbio/Checkpoint_02_Food_Chains_Webs_Energy_Pyramids_img05.svg",
+          "notes": ""
+        },
+        "06": {
+          "alt": "Systems Thinking   Energy Flows, Nutrients Cycle",
+          "status": "needed",
+          "svg_file": "envbio/Checkpoint_02_Food_Chains_Webs_Energy_Pyramids_img06.svg",
+          "notes": ""
+        }
+      }
+    },
+    "Checkpoint_03_Water_Cycle_Decomposition": {
+      "lesson_name": "Checkpoint 03 Water Cycle Decomposition",
+      "slots": {
+        "01": {
+          "alt": "Where Is All the Water?",
+          "status": "needed",
+          "svg_file": "envbio/Checkpoint_03_Water_Cycle_Decomposition_img01.svg",
+          "notes": ""
+        },
+        "02": {
+          "alt": "How Water Moves   Six Processes",
+          "status": "needed",
+          "svg_file": "envbio/Checkpoint_03_Water_Cycle_Decomposition_img02.svg",
+          "notes": ""
+        },
+        "03": {
+          "alt": "Transpiration   The Hidden Process",
+          "status": "needed",
+          "svg_file": "envbio/Checkpoint_03_Water_Cycle_Decomposition_img03.svg",
+          "notes": ""
+        },
+        "04": {
+          "alt": "Decomposition   Recycling the Building Blocks",
+          "status": "needed",
+          "svg_file": "envbio/Checkpoint_03_Water_Cycle_Decomposition_img04.svg",
+          "notes": ""
+        },
+        "05": {
+          "alt": "Decomposition Connects Everything",
+          "status": "needed",
+          "svg_file": "envbio/Checkpoint_03_Water_Cycle_Decomposition_img05.svg",
+          "notes": ""
+        },
+        "06": {
+          "alt": "Climate Change and the Water Cycle",
+          "status": "needed",
+          "svg_file": "envbio/Checkpoint_03_Water_Cycle_Decomposition_img06.svg",
+          "notes": ""
+        }
+      }
+    },
+    "Checkpoint_04_Carbon_Cycle_Greenhouse_Gases": {
+      "lesson_name": "Checkpoint 04 Carbon Cycle Greenhouse Gases",
+      "slots": {
+        "01": {
+          "alt": "The Fast Carbon Cycle   Biology in Action",
+          "status": "needed",
+          "svg_file": "envbio/Checkpoint_04_Carbon_Cycle_Greenhouse_Gases_img01.svg",
+          "notes": ""
+        },
+        "02": {
+          "alt": "The Slow Carbon Cycle   Geology Over Millions of Years",
+          "status": "needed",
+          "svg_file": "envbio/Checkpoint_04_Carbon_Cycle_Greenhouse_Gases_img02.svg",
+          "notes": ""
+        },
+        "03": {
+          "alt": "The Greenhouse Effect   Why CO\u2082 Matters",
+          "status": "needed",
+          "svg_file": "envbio/Checkpoint_04_Carbon_Cycle_Greenhouse_Gases_img03.svg",
+          "notes": ""
+        },
+        "04": {
+          "alt": "The Critical Problem   Slow Cycle Carbon in the Fast Cycle",
+          "status": "needed",
+          "svg_file": "envbio/Checkpoint_04_Carbon_Cycle_Greenhouse_Gases_img04.svg",
+          "notes": ""
+        },
+        "05": {
+          "alt": "Reinforcing Feedback Loops   Why It Accelerates",
+          "status": "needed",
+          "svg_file": "envbio/Checkpoint_04_Carbon_Cycle_Greenhouse_Gases_img05.svg",
+          "notes": ""
+        },
+        "06": {
+          "alt": "Leverage Points   Where Can We Intervene?",
+          "status": "needed",
+          "svg_file": "envbio/Checkpoint_04_Carbon_Cycle_Greenhouse_Gases_img06.svg",
+          "notes": ""
+        }
+      }
+    },
+    "Checkpoint_05_Nitrogen_Cycle": {
+      "lesson_name": "Checkpoint 05 Nitrogen Cycle",
+      "slots": {
+        "01": {
+          "alt": "Nitrogen Fixation   Breaking the Unbreakable Bond",
+          "status": "needed",
+          "svg_file": "envbio/Checkpoint_05_Nitrogen_Cycle_img01.svg",
+          "notes": ""
+        },
+        "02": {
+          "alt": "Assimilation and Ammonification   The Living Loop",
+          "status": "needed",
+          "svg_file": "envbio/Checkpoint_05_Nitrogen_Cycle_img02.svg",
+          "notes": ""
+        },
+        "03": {
+          "alt": "The Haber-Bosch Revolution   Humans Break the Balance",
+          "status": "needed",
+          "svg_file": "envbio/Checkpoint_05_Nitrogen_Cycle_img03.svg",
+          "notes": ""
+        },
+        "04": {
+          "alt": "Eutrophication   When Nitrogen Becomes Poison",
+          "status": "needed",
+          "svg_file": "envbio/Checkpoint_05_Nitrogen_Cycle_img04.svg",
+          "notes": ""
+        }
+      }
+    },
+    "Checkpoint_06_Phosphorus_Sulfur_Comparing_Cycles": {
+      "lesson_name": "Checkpoint 06 Phosphorus Sulfur Comparing Cycles",
+      "slots": {
+        "01": {
+          "alt": "When Humans Flood the System   Eutrophication",
+          "status": "needed",
+          "svg_file": "envbio/Checkpoint_06_Phosphorus_Sulfur_Comparing_Cycles_img01.svg",
+          "notes": ""
+        },
+        "02": {
+          "alt": "The Sulfur Cycle   Volcanoes, Coal, and Acid Rain",
+          "status": "needed",
+          "svg_file": "envbio/Checkpoint_06_Phosphorus_Sulfur_Comparing_Cycles_img02.svg",
+          "notes": ""
+        },
+        "03": {
+          "alt": "A Success Story   The Clean Air Act",
+          "status": "needed",
+          "svg_file": "envbio/Checkpoint_06_Phosphorus_Sulfur_Comparing_Cycles_img03.svg",
+          "notes": ""
+        },
+        "04": {
+          "alt": "Comparing All the Cycles",
+          "status": "needed",
+          "svg_file": "envbio/Checkpoint_06_Phosphorus_Sulfur_Comparing_Cycles_img04.svg",
+          "notes": ""
+        },
+        "05": {
+          "alt": "Cross-Cycle Connections",
+          "status": "needed",
+          "svg_file": "envbio/Checkpoint_06_Phosphorus_Sulfur_Comparing_Cycles_img05.svg",
+          "notes": ""
+        },
+        "06": {
+          "alt": "What Comes Next",
+          "status": "needed",
+          "svg_file": "envbio/Checkpoint_06_Phosphorus_Sulfur_Comparing_Cycles_img06.svg",
+          "notes": ""
+        }
+      }
+    },
+    "Checkpoint_07_Atmosphere_Hydrosphere_Interactions": {
+      "lesson_name": "Checkpoint 07 Atmosphere Hydrosphere Interactions",
+      "slots": {
+        "01": {
+          "alt": "\ud83d\udcda Reading: How Air and Water Shape Our Planet\n\n\n    Part 1: Earth",
+          "status": "needed",
+          "svg_file": "envbio/Checkpoint_07_Atmosphere_Hydrosphere_Interactions_img01.svg",
+          "notes": ""
+        },
+        "02": {
+          "alt": "Earth",
+          "status": "needed",
+          "svg_file": "envbio/Checkpoint_07_Atmosphere_Hydrosphere_Interactions_img02.svg",
+          "notes": ""
+        },
+        "03": {
+          "alt": "Where Air Meets Water   The Evaporation-Precipitation Engine",
+          "status": "needed",
+          "svg_file": "envbio/Checkpoint_07_Atmosphere_Hydrosphere_Interactions_img03.svg",
+          "notes": ""
+        },
+        "04": {
+          "alt": "Ocean Currents   The Planet",
+          "status": "needed",
+          "svg_file": "envbio/Checkpoint_07_Atmosphere_Hydrosphere_Interactions_img04.svg",
+          "notes": ""
+        },
+        "05": {
+          "alt": "The Ocean as a Carbon and Heat Sink",
+          "status": "needed",
+          "svg_file": "envbio/Checkpoint_07_Atmosphere_Hydrosphere_Interactions_img05.svg",
+          "notes": ""
+        },
+        "06": {
+          "alt": "Feedback Loops Between Air and Water",
+          "status": "needed",
+          "svg_file": "envbio/Checkpoint_07_Atmosphere_Hydrosphere_Interactions_img06.svg",
+          "notes": ""
+        },
+        "07": {
+          "alt": "Sea Level Rise   Two Causes, One Crisis",
+          "status": "needed",
+          "svg_file": "envbio/Checkpoint_07_Atmosphere_Hydrosphere_Interactions_img07.svg",
+          "notes": ""
+        },
+        "08": {
+          "alt": "Connecting to the Big Picture",
+          "status": "needed",
+          "svg_file": "envbio/Checkpoint_07_Atmosphere_Hydrosphere_Interactions_img08.svg",
+          "notes": ""
+        }
+      }
+    },
+    "Checkpoint_08_Geosphere_Cryosphere_Pedosphere": {
+      "lesson_name": "Checkpoint 08 Geosphere Cryosphere Pedosphere",
+      "slots": {
+        "01": {
+          "alt": "The Rock Cycle   Earth",
+          "status": "needed",
+          "svg_file": "envbio/Checkpoint_08_Geosphere_Cryosphere_Pedosphere_img01.svg",
+          "notes": ""
+        },
+        "02": {
+          "alt": "Weathering   Where Spheres Collide",
+          "status": "needed",
+          "svg_file": "envbio/Checkpoint_08_Geosphere_Cryosphere_Pedosphere_img02.svg",
+          "notes": ""
+        },
+        "03": {
+          "alt": "The Cryosphere   Earth",
+          "status": "needed",
+          "svg_file": "envbio/Checkpoint_08_Geosphere_Cryosphere_Pedosphere_img03.svg",
+          "notes": ""
+        },
+        "04": {
+          "alt": "Permafrost   The Carbon Time Bomb",
+          "status": "needed",
+          "svg_file": "envbio/Checkpoint_08_Geosphere_Cryosphere_Pedosphere_img04.svg",
+          "notes": ""
+        },
+        "05": {
+          "alt": "The Pedosphere   Where Everything Meets",
+          "status": "needed",
+          "svg_file": "envbio/Checkpoint_08_Geosphere_Cryosphere_Pedosphere_img05.svg",
+          "notes": ""
+        },
+        "06": {
+          "alt": "The Underground Internet   Mycorrhizal Networks",
+          "status": "needed",
+          "svg_file": "envbio/Checkpoint_08_Geosphere_Cryosphere_Pedosphere_img06.svg",
+          "notes": ""
+        },
+        "07": {
+          "alt": "The Big Picture   Everything Connects",
+          "status": "needed",
+          "svg_file": "envbio/Checkpoint_08_Geosphere_Cryosphere_Pedosphere_img07.svg",
+          "notes": ""
+        }
+      }
+    },
+    "Checkpoint_09_Populations_Definition_Growth": {
+      "lesson_name": "Checkpoint 09 Populations Definition Growth",
+      "slots": {
+        "01": {
+          "alt": "How Do Scientists Describe Populations?",
+          "status": "needed",
+          "svg_file": "envbio/Checkpoint_09_Populations_Definition_Growth_img01.svg",
+          "notes": ""
+        },
+        "02": {
+          "alt": "The Dream Scenario   Exponential Growth",
+          "status": "needed",
+          "svg_file": "envbio/Checkpoint_09_Populations_Definition_Growth_img02.svg",
+          "notes": ""
+        },
+        "03": {
+          "alt": "Reality Check   Carrying Capacity and Logistic Growth",
+          "status": "needed",
+          "svg_file": "envbio/Checkpoint_09_Populations_Definition_Growth_img03.svg",
+          "notes": ""
+        },
+        "04": {
+          "alt": "What Controls Population Growth?",
+          "status": "needed",
+          "svg_file": "envbio/Checkpoint_09_Populations_Definition_Growth_img04.svg",
+          "notes": ""
+        },
+        "05": {
+          "alt": "Ecosystem Services   What Populations Do for Us",
+          "status": "needed",
+          "svg_file": "envbio/Checkpoint_09_Populations_Definition_Growth_img05.svg",
+          "notes": ""
+        },
+        "06": {
+          "alt": "Connections to Previous Units",
+          "status": "needed",
+          "svg_file": "envbio/Checkpoint_09_Populations_Definition_Growth_img06.svg",
+          "notes": ""
+        }
+      }
+    },
+    "Checkpoint_10_Population_Dynamics": {
+      "lesson_name": "Checkpoint 10 Population Dynamics",
+      "slots": {
+        "01": {
+          "alt": "Density-Dependent Factors   The Crowding Effect",
+          "status": "needed",
+          "svg_file": "envbio/Checkpoint_10_Population_Dynamics_img01.svg",
+          "notes": ""
+        },
+        "02": {
+          "alt": "The Predator-Prey Dance",
+          "status": "needed",
+          "svg_file": "envbio/Checkpoint_10_Population_Dynamics_img02.svg",
+          "notes": ""
+        },
+        "03": {
+          "alt": "Density-Independent Factors   When Nature Doesn t Care About Numbers",
+          "status": "needed",
+          "svg_file": "envbio/Checkpoint_10_Population_Dynamics_img03.svg",
+          "notes": ""
+        },
+        "04": {
+          "alt": "The Law of the Minimum   The Weakest Link",
+          "status": "needed",
+          "svg_file": "envbio/Checkpoint_10_Population_Dynamics_img04.svg",
+          "notes": ""
+        },
+        "05": {
+          "alt": "Both Types Working Together",
+          "status": "needed",
+          "svg_file": "envbio/Checkpoint_10_Population_Dynamics_img05.svg",
+          "notes": ""
+        },
+        "06": {
+          "alt": "Humans   Have We Escaped Our Limiting Factors?",
+          "status": "needed",
+          "svg_file": "envbio/Checkpoint_10_Population_Dynamics_img06.svg",
+          "notes": ""
+        },
+        "07": {
+          "alt": "Why This Matters   Conservation and the Future",
+          "status": "needed",
+          "svg_file": "envbio/Checkpoint_10_Population_Dynamics_img07.svg",
+          "notes": ""
+        }
+      }
+    },
+    "Checkpoint_11_Competition_Predation_Symbiosis": {
+      "lesson_name": "Checkpoint 11 Competition Predation Symbiosis",
+      "slots": {
+        "01": {
+          "alt": "Competition   The Invisible War",
+          "status": "needed",
+          "svg_file": "envbio/Checkpoint_11_Competition_Predation_Symbiosis_img01.svg",
+          "notes": ""
+        },
+        "02": {
+          "alt": "Predation   More Than Just Hunting",
+          "status": "needed",
+          "svg_file": "envbio/Checkpoint_11_Competition_Predation_Symbiosis_img02.svg",
+          "notes": ""
+        },
+        "03": {
+          "alt": "Keystone Species   Small Players, Huge Impact",
+          "status": "needed",
+          "svg_file": "envbio/Checkpoint_11_Competition_Predation_Symbiosis_img03.svg",
+          "notes": ""
+        },
+        "04": {
+          "alt": "Mutualism   Partnerships That Built the World",
+          "status": "needed",
+          "svg_file": "envbio/Checkpoint_11_Competition_Predation_Symbiosis_img04.svg",
+          "notes": ""
+        },
+        "05": {
+          "alt": "Commensalism and Parasitism   The Other Partnerships",
+          "status": "needed",
+          "svg_file": "envbio/Checkpoint_11_Competition_Predation_Symbiosis_img05.svg",
+          "notes": ""
+        },
+        "06": {
+          "alt": "The Web of Interactions",
+          "status": "needed",
+          "svg_file": "envbio/Checkpoint_11_Competition_Predation_Symbiosis_img06.svg",
+          "notes": ""
+        }
+      }
+    },
+    "Checkpoint_12_Keystone_Species_Succession_Biomes": {
+      "lesson_name": "Checkpoint 12 Keystone Species Succession Biomes",
+      "slots": {
+        "01": {
+          "alt": "When Wolves Changed Rivers",
+          "status": "needed",
+          "svg_file": "envbio/Checkpoint_12_Keystone_Species_Succession_Biomes_img01.svg",
+          "notes": ""
+        },
+        "02": {
+          "alt": "Starting From Scratch   Primary Succession",
+          "status": "needed",
+          "svg_file": "envbio/Checkpoint_12_Keystone_Species_Succession_Biomes_img02.svg",
+          "notes": ""
+        },
+        "03": {
+          "alt": "Bouncing Back   Secondary Succession",
+          "status": "needed",
+          "svg_file": "envbio/Checkpoint_12_Keystone_Species_Succession_Biomes_img03.svg",
+          "notes": ""
+        },
+        "04": {
+          "alt": "Earth",
+          "status": "needed",
+          "svg_file": "envbio/Checkpoint_12_Keystone_Species_Succession_Biomes_img04.svg",
+          "notes": ""
+        },
+        "05": {
+          "alt": "Biomes as Systems",
+          "status": "needed",
+          "svg_file": "envbio/Checkpoint_12_Keystone_Species_Succession_Biomes_img05.svg",
+          "notes": ""
+        },
+        "06": {
+          "alt": "Everything Connects",
+          "status": "needed",
+          "svg_file": "envbio/Checkpoint_12_Keystone_Species_Succession_Biomes_img06.svg",
+          "notes": ""
+        }
+      }
+    },
+    "Checkpoint_13_Aquatic_Systems_You_in_the_Food_Web": {
+      "lesson_name": "Checkpoint 13 Aquatic Systems You in the Food Web",
+      "slots": {
+        "01": {
+          "alt": "Where Fresh Water Flows",
+          "status": "needed",
+          "svg_file": "envbio/Checkpoint_13_Aquatic_Systems_You_in_the_Food_Web_img01.svg",
+          "notes": ""
+        },
+        "02": {
+          "alt": "When Lakes Die   Eutrophication",
+          "status": "needed",
+          "svg_file": "envbio/Checkpoint_13_Aquatic_Systems_You_in_the_Food_Web_img02.svg",
+          "notes": ""
+        },
+        "03": {
+          "alt": "The Ocean   Earth",
+          "status": "needed",
+          "svg_file": "envbio/Checkpoint_13_Aquatic_Systems_You_in_the_Food_Web_img03.svg",
+          "notes": ""
+        },
+        "04": {
+          "alt": "The Ocean Is Getting More Acidic",
+          "status": "needed",
+          "svg_file": "envbio/Checkpoint_13_Aquatic_Systems_You_in_the_Food_Web_img04.svg",
+          "notes": ""
+        },
+        "05": {
+          "alt": "Where Do You Fit?",
+          "status": "needed",
+          "svg_file": "envbio/Checkpoint_13_Aquatic_Systems_You_in_the_Food_Web_img05.svg",
+          "notes": ""
+        },
+        "06": {
+          "alt": "Your Ecological Footprint",
+          "status": "needed",
+          "svg_file": "envbio/Checkpoint_13_Aquatic_Systems_You_in_the_Food_Web_img06.svg",
+          "notes": ""
+        },
+        "07": {
+          "alt": "Everything Connects   Water, Land, and You",
+          "status": "needed",
+          "svg_file": "envbio/Checkpoint_13_Aquatic_Systems_You_in_the_Food_Web_img07.svg",
+          "notes": ""
+        }
+      }
+    },
+    "Checkpoint_14_Climate_Change_Overview_Evidence": {
+      "lesson_name": "Checkpoint 14 Climate Change Overview Evidence",
+      "slots": {
+        "01": {
+          "alt": "What Humans Changed",
+          "status": "needed",
+          "svg_file": "envbio/Checkpoint_14_Climate_Change_Overview_Evidence_img01.svg",
+          "notes": ""
+        },
+        "02": {
+          "alt": "Reading the Ice",
+          "status": "needed",
+          "svg_file": "envbio/Checkpoint_14_Climate_Change_Overview_Evidence_img02.svg",
+          "notes": ""
+        },
+        "03": {
+          "alt": "The Evidence Is Everywhere",
+          "status": "needed",
+          "svg_file": "envbio/Checkpoint_14_Climate_Change_Overview_Evidence_img03.svg",
+          "notes": ""
+        },
+        "04": {
+          "alt": "Feedback Loops That Speed Things Up",
+          "status": "needed",
+          "svg_file": "envbio/Checkpoint_14_Climate_Change_Overview_Evidence_img04.svg",
+          "notes": ""
+        },
+        "05": {
+          "alt": "How Fast Is Too Fast?",
+          "status": "needed",
+          "svg_file": "envbio/Checkpoint_14_Climate_Change_Overview_Evidence_img05.svg",
+          "notes": ""
+        },
+        "06": {
+          "alt": "Everything Connects",
+          "status": "needed",
+          "svg_file": "envbio/Checkpoint_14_Climate_Change_Overview_Evidence_img06.svg",
+          "notes": ""
+        }
+      }
+    },
+    "Checkpoint_15_Climate_Feedbacks_Impacts_Biodiversity_Loss": {
+      "lesson_name": "Checkpoint 15 Climate Feedbacks Impacts Biodiversity Loss",
+      "slots": {
+        "01": {
+          "alt": "The Carbon Time Bomb   Permafrost Thaw",
+          "status": "needed",
+          "svg_file": "envbio/Checkpoint_15_Climate_Feedbacks_Impacts_Biodiversity_Loss_img01.svg",
+          "notes": ""
+        },
+        "02": {
+          "alt": "The Point of No Return   Tipping Points",
+          "status": "needed",
+          "svg_file": "envbio/Checkpoint_15_Climate_Feedbacks_Impacts_Biodiversity_Loss_img02.svg",
+          "notes": ""
+        },
+        "03": {
+          "alt": "Impacts on Human Systems",
+          "status": "needed",
+          "svg_file": "envbio/Checkpoint_15_Climate_Feedbacks_Impacts_Biodiversity_Loss_img03.svg",
+          "notes": ""
+        },
+        "04": {
+          "alt": "The Sixth Mass Extinction",
+          "status": "needed",
+          "svg_file": "envbio/Checkpoint_15_Climate_Feedbacks_Impacts_Biodiversity_Loss_img04.svg",
+          "notes": ""
+        },
+        "05": {
+          "alt": "Why Biodiversity Loss Matters   Ecosystem Services",
+          "status": "needed",
+          "svg_file": "envbio/Checkpoint_15_Climate_Feedbacks_Impacts_Biodiversity_Loss_img05.svg",
+          "notes": ""
+        },
+        "06": {
+          "alt": "The Connected Crisis   Climate + Biodiversity Together",
+          "status": "needed",
+          "svg_file": "envbio/Checkpoint_15_Climate_Feedbacks_Impacts_Biodiversity_Loss_img06.svg",
+          "notes": ""
+        }
+      }
+    },
+    "Checkpoint_16_Air_Water_Pollution": {
+      "lesson_name": "Checkpoint 16 Air Water Pollution",
+      "slots": {
+        "01": {
+          "alt": "Smog, Acid Rain, and the Ozone Problem",
+          "status": "needed",
+          "svg_file": "envbio/Checkpoint_16_Air_Water_Pollution_img01.svg",
+          "notes": ""
+        },
+        "02": {
+          "alt": "Water   The Universal Solvent Gets Polluted",
+          "status": "needed",
+          "svg_file": "envbio/Checkpoint_16_Air_Water_Pollution_img02.svg",
+          "notes": ""
+        },
+        "03": {
+          "alt": "Eutrophication   When Nutrients Become Poison",
+          "status": "needed",
+          "svg_file": "envbio/Checkpoint_16_Air_Water_Pollution_img03.svg",
+          "notes": ""
+        },
+        "04": {
+          "alt": "Bioaccumulation   Biomagnification   Pollution Climbs the Food Chain",
+          "status": "needed",
+          "svg_file": "envbio/Checkpoint_16_Air_Water_Pollution_img04.svg",
+          "notes": ""
+        },
+        "05": {
+          "alt": "Plastic   The Pollution That Never Disappears",
+          "status": "needed",
+          "svg_file": "envbio/Checkpoint_16_Air_Water_Pollution_img05.svg",
+          "notes": ""
+        },
+        "06": {
+          "alt": "Solutions   Where Are the Leverage Points?",
+          "status": "needed",
+          "svg_file": "envbio/Checkpoint_16_Air_Water_Pollution_img06.svg",
+          "notes": ""
+        }
+      }
+    },
+    "Checkpoint_17_Soil_Degradation_Toxicology_Health": {
+      "lesson_name": "Checkpoint 17 Soil Degradation Toxicology Health",
+      "slots": {
+        "01": {
+          "alt": "How We Destroy Soil",
+          "status": "needed",
+          "svg_file": "envbio/Checkpoint_17_Soil_Degradation_Toxicology_Health_img01.svg",
+          "notes": ""
+        },
+        "02": {
+          "alt": "The Dose Makes the Poison",
+          "status": "needed",
+          "svg_file": "envbio/Checkpoint_17_Soil_Degradation_Toxicology_Health_img02.svg",
+          "notes": ""
+        },
+        "03": {
+          "alt": "From Environment to Body",
+          "status": "needed",
+          "svg_file": "envbio/Checkpoint_17_Soil_Degradation_Toxicology_Health_img03.svg",
+          "notes": ""
+        },
+        "04": {
+          "alt": "Forever Chemicals   PFAS and Microplastics",
+          "status": "needed",
+          "svg_file": "envbio/Checkpoint_17_Soil_Degradation_Toxicology_Health_img04.svg",
+          "notes": ""
+        },
+        "05": {
+          "alt": "Environmental Justice   Pollution Is Not Equally Distributed",
+          "status": "needed",
+          "svg_file": "envbio/Checkpoint_17_Soil_Degradation_Toxicology_Health_img05.svg",
+          "notes": ""
+        }
+      }
+    },
+    "Checkpoint_18_Biodiversity_Human_Impacts_Environmental_Justice": {
+      "lesson_name": "Checkpoint 18 Biodiversity Human Impacts Environmental Justice",
+      "slots": {
+        "01": {
+          "alt": "Ecosystem Services   What Nature Gives Us",
+          "status": "needed",
+          "svg_file": "envbio/Checkpoint_18_Biodiversity_Human_Impacts_Environmental_Justice_img01.svg",
+          "notes": ""
+        },
+        "02": {
+          "alt": "The HIPPO Threats   Why Biodiversity Is Declining",
+          "status": "needed",
+          "svg_file": "envbio/Checkpoint_18_Biodiversity_Human_Impacts_Environmental_Justice_img02.svg",
+          "notes": ""
+        },
+        "03": {
+          "alt": "Habitat Fragmentation   Death by a Thousand Cuts",
+          "status": "needed",
+          "svg_file": "envbio/Checkpoint_18_Biodiversity_Human_Impacts_Environmental_Justice_img03.svg",
+          "notes": ""
+        },
+        "04": {
+          "alt": "Sustainability   Living Within Our Means",
+          "status": "needed",
+          "svg_file": "envbio/Checkpoint_18_Biodiversity_Human_Impacts_Environmental_Justice_img04.svg",
+          "notes": ""
+        },
+        "05": {
+          "alt": "Environmental Justice   Who Bears the Burden?",
+          "status": "needed",
+          "svg_file": "envbio/Checkpoint_18_Biodiversity_Human_Impacts_Environmental_Justice_img05.svg",
+          "notes": ""
+        }
+      }
+    },
+    "Checkpoint_21_Case_Study_Ozone_Hole_Acid_Rain": {
+      "lesson_name": "Checkpoint 21 Case Study Ozone Hole Acid Rain",
+      "slots": {
+        "01": {
+          "alt": "The Invisible Destroyer",
+          "status": "needed",
+          "svg_file": "envbio/Checkpoint_21_Case_Study_Ozone_Hole_Acid_Rain_img01.svg",
+          "notes": ""
+        },
+        "02": {
+          "alt": "The Discovery",
+          "status": "needed",
+          "svg_file": "envbio/Checkpoint_21_Case_Study_Ozone_Hole_Acid_Rain_img02.svg",
+          "notes": ""
+        },
+        "03": {
+          "alt": "The World Acts",
+          "status": "needed",
+          "svg_file": "envbio/Checkpoint_21_Case_Study_Ozone_Hole_Acid_Rain_img03.svg",
+          "notes": ""
+        },
+        "04": {
+          "alt": "Rain That Burns",
+          "status": "needed",
+          "svg_file": "envbio/Checkpoint_21_Case_Study_Ozone_Hole_Acid_Rain_img04.svg",
+          "notes": ""
+        },
+        "05": {
+          "alt": "The Damage",
+          "status": "needed",
+          "svg_file": "envbio/Checkpoint_21_Case_Study_Ozone_Hole_Acid_Rain_img05.svg",
+          "notes": ""
+        },
+        "06": {
+          "alt": "The Fix",
+          "status": "needed",
+          "svg_file": "envbio/Checkpoint_21_Case_Study_Ozone_Hole_Acid_Rain_img06.svg",
+          "notes": ""
+        },
+        "07": {
+          "alt": "What Can We Learn?",
+          "status": "needed",
+          "svg_file": "envbio/Checkpoint_21_Case_Study_Ozone_Hole_Acid_Rain_img07.svg",
+          "notes": ""
+        }
+      }
+    },
+    "Checkpoint_22_Case_Study_Wolves_of_Yellowstone_Massachusetts": {
+      "lesson_name": "Checkpoint 22 Case Study Wolves of Yellowstone Massachusetts",
+      "slots": {
+        "01": {
+          "alt": "The Wolves Return",
+          "status": "needed",
+          "svg_file": "envbio/Checkpoint_22_Case_Study_Wolves_of_Yellowstone_Massachusetts_img01.svg",
+          "notes": ""
+        },
+        "02": {
+          "alt": "The Fish That Built Nations",
+          "status": "needed",
+          "svg_file": "envbio/Checkpoint_22_Case_Study_Wolves_of_Yellowstone_Massachusetts_img02.svg",
+          "notes": ""
+        },
+        "03": {
+          "alt": "The Technology Trap",
+          "status": "needed",
+          "svg_file": "envbio/Checkpoint_22_Case_Study_Wolves_of_Yellowstone_Massachusetts_img03.svg",
+          "notes": ""
+        },
+        "04": {
+          "alt": "The Moratorium",
+          "status": "needed",
+          "svg_file": "envbio/Checkpoint_22_Case_Study_Wolves_of_Yellowstone_Massachusetts_img04.svg",
+          "notes": ""
+        },
+        "05": {
+          "alt": "The River Nobody Wanted to Touch",
+          "status": "needed",
+          "svg_file": "envbio/Checkpoint_22_Case_Study_Wolves_of_Yellowstone_Massachusetts_img05.svg",
+          "notes": ""
+        },
+        "06": {
+          "alt": "Cleaning the Charles",
+          "status": "needed",
+          "svg_file": "envbio/Checkpoint_22_Case_Study_Wolves_of_Yellowstone_Massachusetts_img06.svg",
+          "notes": ""
+        },
+        "07": {
+          "alt": "What These Stories Teach Us",
+          "status": "needed",
+          "svg_file": "envbio/Checkpoint_22_Case_Study_Wolves_of_Yellowstone_Massachusetts_img07.svg",
+          "notes": ""
+        }
+      }
+    },
+    "Checkpoint_23_Energy_Efficiency_Renewable_Energy": {
+      "lesson_name": "Checkpoint 23 Energy Efficiency Renewable Energy",
+      "slots": {
+        "01": {
+          "alt": "The First Fuel",
+          "status": "needed",
+          "svg_file": "envbio/Checkpoint_23_Energy_Efficiency_Renewable_Energy_img01.svg",
+          "notes": ""
+        },
+        "02": {
+          "alt": "Solar Energy",
+          "status": "needed",
+          "svg_file": "envbio/Checkpoint_23_Energy_Efficiency_Renewable_Energy_img02.svg",
+          "notes": ""
+        },
+        "03": {
+          "alt": "Wind Energy",
+          "status": "needed",
+          "svg_file": "envbio/Checkpoint_23_Energy_Efficiency_Renewable_Energy_img03.svg",
+          "notes": ""
+        },
+        "04": {
+          "alt": "Hydroelectric, Geothermal, and Nuclear",
+          "status": "needed",
+          "svg_file": "envbio/Checkpoint_23_Energy_Efficiency_Renewable_Energy_img04.svg",
+          "notes": ""
+        },
+        "05": {
+          "alt": "The Energy Transition",
+          "status": "needed",
+          "svg_file": "envbio/Checkpoint_23_Energy_Efficiency_Renewable_Energy_img05.svg",
+          "notes": ""
+        },
+        "06": {
+          "alt": "Leverage Points",
+          "status": "needed",
+          "svg_file": "envbio/Checkpoint_23_Energy_Efficiency_Renewable_Energy_img06.svg",
+          "notes": ""
+        }
+      }
+    },
+    "Checkpoint_24_Transportation_Conservation_Sustainable_Agriculture": {
+      "lesson_name": "Checkpoint 24 Transportation Conservation Sustainable Agriculture",
+      "slots": {
+        "01": {
+          "alt": "Clean Transportation Solutions",
+          "status": "needed",
+          "svg_file": "envbio/Checkpoint_24_Transportation_Conservation_Sustainable_Agriculture_img01.svg",
+          "notes": ""
+        },
+        "02": {
+          "alt": "What Is Conservation Biology?",
+          "status": "needed",
+          "svg_file": "envbio/Checkpoint_24_Transportation_Conservation_Sustainable_Agriculture_img02.svg",
+          "notes": ""
+        },
+        "03": {
+          "alt": "Tools for Protecting Species",
+          "status": "needed",
+          "svg_file": "envbio/Checkpoint_24_Transportation_Conservation_Sustainable_Agriculture_img03.svg",
+          "notes": ""
+        },
+        "04": {
+          "alt": "The Problem with Industrial Agriculture",
+          "status": "needed",
+          "svg_file": "envbio/Checkpoint_24_Transportation_Conservation_Sustainable_Agriculture_img04.svg",
+          "notes": ""
+        },
+        "05": {
+          "alt": "Sustainable Farming Solutions",
+          "status": "needed",
+          "svg_file": "envbio/Checkpoint_24_Transportation_Conservation_Sustainable_Agriculture_img05.svg",
+          "notes": ""
+        },
+        "06": {
+          "alt": "Food Choices as Leverage Points",
+          "status": "needed",
+          "svg_file": "envbio/Checkpoint_24_Transportation_Conservation_Sustainable_Agriculture_img06.svg",
+          "notes": ""
+        },
+        "07": {
+          "alt": "Connecting It All",
+          "status": "needed",
+          "svg_file": "envbio/Checkpoint_24_Transportation_Conservation_Sustainable_Agriculture_img07.svg",
+          "notes": ""
+        }
+      }
+    },
+    "Checkpoint_25_Carbon_Capture_Individual_Action": {
+      "lesson_name": "Checkpoint 25 Carbon Capture Individual Action",
+      "slots": {
+        "01": {
+          "alt": "Carbon Capture   Can We Pull CO&#8322; Back?",
+          "status": "needed",
+          "svg_file": "envbio/Checkpoint_25_Carbon_Capture_Individual_Action_img01.svg",
+          "notes": ""
+        },
+        "02": {
+          "alt": "Putting a Price on Carbon",
+          "status": "needed",
+          "svg_file": "envbio/Checkpoint_25_Carbon_Capture_Individual_Action_img02.svg",
+          "notes": ""
+        },
+        "03": {
+          "alt": "International Climate Agreements",
+          "status": "needed",
+          "svg_file": "envbio/Checkpoint_25_Carbon_Capture_Individual_Action_img03.svg",
+          "notes": ""
+        },
+        "04": {
+          "alt": "What Can YOU Do? Individual Actions",
+          "status": "needed",
+          "svg_file": "envbio/Checkpoint_25_Carbon_Capture_Individual_Action_img04.svg",
+          "notes": ""
+        },
+        "05": {
+          "alt": "Individual vs. Collective   What Really Works?",
+          "status": "needed",
+          "svg_file": "envbio/Checkpoint_25_Carbon_Capture_Individual_Action_img05.svg",
+          "notes": ""
+        },
+        "06": {
+          "alt": "Climate Anxiety Is Real   And So Is Hope",
+          "status": "needed",
+          "svg_file": "envbio/Checkpoint_25_Carbon_Capture_Individual_Action_img06.svg",
+          "notes": ""
+        },
+        "07": {
+          "alt": "Your Climate Action Plan   Synthesis",
+          "status": "needed",
+          "svg_file": "envbio/Checkpoint_25_Carbon_Capture_Individual_Action_img07.svg",
+          "notes": ""
+        }
+      }
+    },
+    "Checkpoint_26_Policy_Citizen_Science_Synthesis": {
+      "lesson_name": "Checkpoint 26 Policy Citizen Science Synthesis",
+      "slots": {
+        "01": {
+          "alt": "US Environmental Laws That Changed Everything",
+          "status": "needed",
+          "svg_file": "envbio/Checkpoint_26_Policy_Citizen_Science_Synthesis_img01.svg",
+          "notes": ""
+        },
+        "02": {
+          "alt": "International Cooperation   When One Country Is Not Enough",
+          "status": "needed",
+          "svg_file": "envbio/Checkpoint_26_Policy_Citizen_Science_Synthesis_img02.svg",
+          "notes": ""
+        },
+        "03": {
+          "alt": "What Is Citizen Science?",
+          "status": "needed",
+          "svg_file": "envbio/Checkpoint_26_Policy_Citizen_Science_Synthesis_img03.svg",
+          "notes": ""
+        },
+        "04": {
+          "alt": "Citizen Science Projects You Can Join",
+          "status": "needed",
+          "svg_file": "envbio/Checkpoint_26_Policy_Citizen_Science_Synthesis_img04.svg",
+          "notes": ""
+        },
+        "05": {
+          "alt": "How Policy, Science   Citizen Action Connect",
+          "status": "needed",
+          "svg_file": "envbio/Checkpoint_26_Policy_Citizen_Science_Synthesis_img05.svg",
+          "notes": ""
+        },
+        "06": {
+          "alt": "Everything Connects   A Course Synthesis",
+          "status": "needed",
+          "svg_file": "envbio/Checkpoint_26_Policy_Citizen_Science_Synthesis_img06.svg",
+          "notes": ""
+        },
+        "07": {
+          "alt": "Your Environmental Science Journey   What Comes Next for You",
+          "status": "needed",
+          "svg_file": "envbio/Checkpoint_26_Policy_Citizen_Science_Synthesis_img07.svg",
+          "notes": ""
+        }
+      }
+    }
+  }
+}
